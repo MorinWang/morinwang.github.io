@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Morin Wang"
-description              : "Homepage of Maolin Wang "
+description              : "Research interests span Graph Learning, Model Compression, Tensor/Matrix Decomposition, Trustworthy AI, and Large Language Models."
 repository               : "MorinWang/MorinWang.github.io"
 google_scholar_stats_use_cdn : true
 
