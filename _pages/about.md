@@ -51,8 +51,13 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong, dedicated to a
 1. Xiao Peng LI, Hing Cheung SO, **Maolin Wang**. *METHOD AND ELECTRONIC DEVICE FOR RECOVERING DATA USING BI-BRANCH NEURAL NETWORK*. U.S. Patent.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- SDM Student Travel Award, City University of Hong Kong
+- Research Tuition Scholarship, City University of Hong Kong
+- UGC Full PhD Scholarship, City University of Hong Kong
+- The First Academic Scholarship, University of Electronic Science and Technology of China
+- The First Prize of Graduate Admission Scholarship, University of Electronic Science and Technology of China
+- The Second Prize of UESTC Scholarship, University of Electronic Science and Technology of China (2 Times)
+- The Third Academic Scholarship, University of Electronic Science and Technology of China
 
 # 📖 Educations
 - *2021.09 - Present*, Ph.D. in Data Science, City University of Hong Kong, Hong Kong SAR
