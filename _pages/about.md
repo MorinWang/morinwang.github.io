@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-Maolin Wang is a Ph.D. candidate at City University of Hong Kong, dedicated to advancing artificial intelligence efficiency and sustainability. His research focuses on natural language processing, knowledge reasoning, and generative AI, with expertise in graph learning, model compression, and tensor/matrix decomposition. Under the supervision of ***Prof. Xiangyu Zhao*** and co-supervision of ***Dr. Ruocheng Guo and Prof. Junhui Wang***, he explores innovative approaches in model lightweight optimization and low-power consumption tuning. Prior to his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***.
+Maolin Wang is a Ph.D. candidate at City University of Hong Kong, dedicated to advancing artificial intelligence efficiency and sustainability. His research focuses on natural language processing, knowledge reasoning, and generative AI, with expertise in graph learning, model compression, and tensor/matrix decomposition. Under the supervision of ***Prof. Xiangyu Zhao*** and co-supervision of ***Dr. Ruocheng Guo and Prof. Junhui Wang***, he explores innovative approaches in model lightweight optimization and low-power consumption tuning. Prior to his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***. His ultimate goal is to contribute to the advancement of sustainable AI that is both powerful and environmentally responsible, making AI more accessible to everyone.
 
 
 # 🔥 News
