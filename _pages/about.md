@@ -17,42 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+Maolin Wang is a Ph.D. candidate at City University of Hong Kong, dedicated to advancing artificial intelligence efficiency and sustainability. His research focuses on natural language processing, knowledge reasoning, and generative AI, with expertise in graph learning, model compression, and tensor/matrix decomposition. Under the supervision of ***Dr. Xiangyu Zhao*** and co-supervision of ***Dr. Ruocheng Guo and Prof. Junhui Wang***, he explores innovative approaches in model lightweight optimization and low-power consumption tuning. Prior to his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*:  🎉🎉 My paper, *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*, has been accepted by ICDE 2025 Doctoral Forum!
+- *2024.12*:  🎉🎉 Our paper, *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*, has been accepted by KDD 2025 **( I serve as co-first author)** !
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+1. **Maolin Wang**. (2025). *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*. In *PhD Symposium Track at IEEE International Conference on Data Engineering (ICDE)* .
+2. Sheng Zhang^*, **Maolin Wang^***, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF-A**)*.
+    (^equal contribution)
+3. Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). *SIGMA: Selective Gated Mamba for Sequential Recommendation*. In *AAAI Conference on Artificial Intelligence (**CCF-A**)*.
+4. Yejing Wang, Chi Zhang, Xiangyu Zhao, Qidong Liu, **Maolin Wang**, Xuetao Wei, Zitao Liu, Xing Shi, Yang Xudong, Ling Zhong, Wei Lin. (2025). *Behavior Modeling Space Reconstruction for E-Commerce Search*. In *The Web Conference (WWW) (**CCF-A**) **[Oral]***.
+5. **Maolin Wang**, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In *The Web Conference (WWW) (**CCF-A**) **[Oral]** **[Deployed in 5+ real-world scenarios at Ant Group and Alipay]***.
+6. **Maolin Wang**, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2024). *Tensorized Hypergraph Neural Networks*. In *SIAM International Conference on Data Mining (SDM) (**CCF-B**)*.
+7. Sheng Zhang^*, **Maolin Wang^***, Yao Zhao, Chenyi Zhuang, Ruocheng Guo, Xiangyu Zhao et al. (2024). *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems*. In *ACM Conference on Recommender Systems (RecSys) (**CCF-B**)*.
+    (^equal contribution)
+8. **Maolin Wang**, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2023). *Federated Knowledge Graph Completion via Latent Embedding Sharing*. In *IEEE International Conference on Data Mining (ICDM) (**CCF-B**)*.
+9. Kesen Zhao, Lixin Zou, Xiangyu Zhao, **Maolin Wang**, Dawei Yin. (2023). *User Retention-oriented Recommendation with Decision Transformer*. In *The Web Conference (WWW) (**CCF-A**)*.
+10. Xiaopeng LI*, **Maolin Wang***, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
+     (*equal contribution)
+11. Yu Pan, **Maolin Wang**, and Zenglin Xu. (2021). *TedNet: A Pytorch Toolkit For Tensor Decomposition Networks*. In *Neurocomputing (**SCI-Q2**) **[100+ stars in Github]***.
+12. **Maolin Wang**, Zeyong Su, Xu Luo, Yu Pan, Shenggen Zheng and Zenglin Xu. (2020). *Concatenated Tensor Networks for Deep Multi-Task Learning*. In *International Conference on Neural Information Processing (ICONIP) (**CCF-C**)*.
+13. **Maolin Wang**, Chenbin Zhang, Yu Pan, Jing Xu and Zenglin Xu. (2019). *Tensor Ring Restricted Boltzmann Machines*. In *International Joint Conference on Neural Networks (IJCNN) (**CCF-C**) **Oral***.
+14. Yu Pan, Jing Xu, **Maolin Wang**, Jinmian Ye, Fei Wang, Kun Bai, and Zenglin Xu. (2019). *Compressing Recurrent Neural Networks with Tensor Ring for Action Recognition*. In *AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 📝 Patent
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+1. Xiao Peng LI, Hing Cheung SO, **Maolin Wang**. *METHOD AND ELECTRONIC DEVICE FOR RECOVERING DATA USING BI-BRANCH NEURAL NETWORK*. U.S. Patent.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - Present*, Ph.D. in Data Science, City University of Hong Kong, Hong Kong SAR
+   Supervisors: **Prof. Xiangyu Zhao, Dr. Ruochen Guo (External) and Prof. Junhui Wang (External)**
+- *2018.09 - 2021.06*, M.Phil. in Computer Science, University of Electronic Science and Technology of China, Chengdu, China
+   Supervisor: **Prof. Zenglin Xu**
+- *2014.09 - 2018.06*, B.E. in Computer Science (Yingcai Honors College), University of Electronic Science and Technology of China, Chengdu, China
+   Supervisor: **Prof. Zenglin Xu**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Services
+- *2024.04*, Session Chair, The Web Conference (WWW)
+   Chair of "Specialized Innovations in Recommender Systems" and "User Modeling for Recommenders" sessions
+- *2024-2025*, Program Committee Member & Conference Reviewer
+   PC Member: WWW 2025 (Demo Track), CIKM 2024, PAKDD 2025, CIKM 2025
+   Reviewer: NeurIPS 2024, KDD 2025, ICLR 2025, AISTATS 2025, ICML 2025, SIGIR 2025, NeurIPS 2025
+- *2020-2025*, Journal Reviewer
+   IEEE TNNLS, IEEE Trans. on Big Data, Neural Networks, Neurocomputing, ACM TKDD, IEEE JSAC, Scientific Reports 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 - 2025.03*, Research Intern, Alipay Department, Ant Group, Hangzhou, China
+   Research on Large Language Models and function calling techniques, focusing on intelligent agent systems development
+- *2023.06 - 2024.06*, Research Intern, CTO Research Department, Ant Group, Hangzhou, China
+  - Developed LLM distillation and pruning techniques for advertising: 5x speed-up, 50% energy reduction, 0.8% performance loss
+  - Deployed NLU models for 10+ Alipay recommendation scenarios: 20x data processing speed, 5% PVCTR improvement
+  - Built multimodal agent solution with Shanghai General Hospital for LLM-based medical case generation
+- *2019.06 - 2019.10*, Research Intern, Peng Cheng Laboratory, Shenzhen, China
+   Conducted research on quantum computing fundamentals and tensor network applications under Dr. Shenggen Zheng's supervision at PCL Star Cloud Data Service Platform
