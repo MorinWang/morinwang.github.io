@@ -39,8 +39,8 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong, dedicated to a
     (^equal contribution)
 8. **Maolin Wang**, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2023). *Federated Knowledge Graph Completion via Latent Embedding Sharing*. In *IEEE International Conference on Data Mining (ICDM) (**CCF-B**)*.
 9. Kesen Zhao, Lixin Zou, Xiangyu Zhao, **Maolin Wang**, Dawei Yin. (2023). *User Retention-oriented Recommendation with Decision Transformer*. In *The Web Conference (WWW) (**CCF-A**)*.
-10. Xiaopeng LI*, **Maolin Wang***, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
-     (*equal contribution)
+10. Xiaopeng LI^, **Maolin Wang^**, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
+     (^equal contribution)
 11. Yu Pan, **Maolin Wang**, and Zenglin Xu. (2021). *TedNet: A Pytorch Toolkit For Tensor Decomposition Networks*. In *Neurocomputing (**SCI-Q2**) **[100+ stars in Github]***.
 12. **Maolin Wang**, Zeyong Su, Xu Luo, Yu Pan, Shenggen Zheng and Zenglin Xu. (2020). *Concatenated Tensor Networks for Deep Multi-Task Learning*. In *International Conference on Neural Information Processing (ICONIP) (**CCF-C**)*.
 13. **Maolin Wang**, Chenbin Zhang, Yu Pan, Jing Xu and Zenglin Xu. (2019). *Tensor Ring Restricted Boltzmann Machines*. In *International Joint Conference on Neural Networks (IJCNN) (**CCF-C**) **Oral***.
@@ -68,12 +68,17 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong, dedicated to a
    Supervisor: **Prof. Zenglin Xu**
 
 # 💬 Services
-- *2024.04*, Session Chair, The Web Conference (WWW)
+- *2024.04*, **Session Chair**, The Web Conference (WWW)
+  
    Chair of "Specialized Innovations in Recommender Systems" and "User Modeling for Recommenders" sessions
-- *2024-2025*, Program Committee Member & Conference Reviewer
-   PC Member: WWW 2025 (Demo Track), CIKM 2024, PAKDD 2025, CIKM 2025
-   Reviewer: NeurIPS 2024, KDD 2025, ICLR 2025, AISTATS 2025, ICML 2025, SIGIR 2025, NeurIPS 2025
-- *2020-2025*, Journal Reviewer
+- *2024-2025*, Program Committee Member and Conference Reviewer,
+
+   **PC Member**: WWW 2025 (Demo Track), CIKM 2024, PAKDD 2025, CIKM 2025
+  
+   **Reviewer**: NeurIPS 2024, KDD 2025, ICLR 2025, AISTATS 2025, ICML 2025, SIGIR 2025, NeurIPS 2025
+  
+- *2020-2025*, **Journal Reviewer**,
+  
    IEEE TNNLS, IEEE Trans. on Big Data, Neural Networks, Neurocomputing, ACM TKDD, IEEE JSAC, Scientific Reports 
 
 # 💻 Internships
