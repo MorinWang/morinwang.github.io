@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-Maolin Wang is a Ph.D. candidate at City University of Hong Kong, dedicated to advancing artificial intelligence efficiency and sustainability. His research focuses on natural language processing, knowledge reasoning, and generative AI, with expertise in graph learning, model compression, and tensor/matrix decomposition. Under the supervision of ***Prof. Xiangyu Zhao*** and co-supervision of ***Dr. Ruocheng Guo and Prof. Junhui Wang***, he explores innovative approaches in model lightweight optimization and low-power consumption tuning. Prior to his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***. His ultimate goal is to contribute to the advancement of sustainable AI that is both powerful and environmentally responsible, making AI more accessible to everyone.
+Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the supervision of ***Prof. Xiangyu Zhao*** and co-supervision of ***Dr. Ruocheng Guo and Prof. Junhui Wang***. His research focuses on graph learning, model compression, tensor/matrix decomposition, and LLMs. Prior to his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***. His ultimate goal is to contribute to the advancement of sustainable AI that is both powerful and environmentally responsible, making AI more accessible to everyone.
 
 
 # 🔥 News
@@ -51,7 +51,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong, dedicated to a
 1. Xiao Peng LI, Hing Cheung SO, **Maolin Wang**. *METHOD AND ELECTRONIC DEVICE FOR RECOVERING DATA USING BI-BRANCH NEURAL NETWORK*. U.S. Patent.
 
 # 🎖 Honors and Awards
-- SDM Student Travel Award, City University of Hong Kong
+- SDM Student Travel Award
 - Research Tuition Scholarship, City University of Hong Kong
 - UGC Full PhD Scholarship, City University of Hong Kong
 - The First Academic Scholarship, University of Electronic Science and Technology of China
@@ -83,10 +83,10 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong, dedicated to a
 
 # 💻 Internships
 - *2024.06 - 2025.03*, Research Intern, Alipay Department, Ant Group, Hangzhou, China
-   Research on Large Language Models and function calling techniques, focusing on intelligent agent systems development
+   - Research on Large Language Models and function calling techniques, focusing on intelligent agent systems development
 - *2023.06 - 2024.06*, Research Intern, CTO Research Department, Ant Group, Hangzhou, China
   - Developed LLM distillation and pruning techniques for advertising: 5x speed-up, 50% energy reduction, 0.8% performance loss
   - Deployed NLU models for 10+ Alipay recommendation scenarios: 20x data processing speed, 5% PVCTR improvement
   - Built multimodal agent solution with Shanghai General Hospital for LLM-based medical case generation
 - *2019.06 - 2019.10*, Research Intern, Peng Cheng Laboratory, Shenzhen, China
-   Conducted research on quantum computing fundamentals and tensor network applications under Dr. Shenggen Zheng's supervision at PCL Star Cloud Data Service Platform
+   - Conducted research on quantum computing fundamentals and tensor network applications under Dr. Shenggen Zheng's supervision at PCL Star Cloud Data Service Platform
