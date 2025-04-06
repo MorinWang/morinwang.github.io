@@ -29,7 +29,8 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 # 📝 Publications 
 
-**Conference**
+**Conference Papers**
+
 [C14] **Maolin Wang**, Sheng Zhang, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (**CCF-A**)*.
 
 [C13] Yuhao Wang, Junwei Pan, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Zhixiang Feng, Xiaotian Li, Jie Jiang, Xiangyu Zhao. (2025). PAD: Large Language Models Enhancing Sequential Recommendation. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (**CCF-A**)*.
@@ -60,7 +61,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 [C1] Yu Pan, Jing Xu, **Maolin Wang**, Jinmian Ye, Fei Wang, Kun Bai, and Zenglin Xu. (2019). *Compressing Recurrent Neural Networks with Tensor Ring for Action Recognition*. In *AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
 
-**Journals**
+**Journal Papers**
 
 [J2] Xiaopeng LI^, **Maolin Wang^**, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
    (^equal contribution)
