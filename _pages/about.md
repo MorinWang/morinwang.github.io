@@ -23,28 +23,49 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 
 # 🔥 News
+- *2025.04*:  🎉🎉 Our two papers have been accepted by SIGIR 2025!
 - *2025.02*:  🎉🎉 My paper, *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*, has been accepted by ICDE 2025 Doctoral Forum!
 - *2024.12*:  🎉🎉 Our paper, *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*, has been accepted by KDD 2025 **( I serve as co-first author)** !
 
 # 📝 Publications 
 
-1. **Maolin Wang**. (2025). *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*. In *PhD Symposium Track at IEEE International Conference on Data Engineering (ICDE)* .
-2. Sheng Zhang^*, **Maolin Wang^***, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF-A**)*.
-    (^equal contribution)
-3. Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). *SIGMA: Selective Gated Mamba for Sequential Recommendation*. In *AAAI Conference on Artificial Intelligence (**CCF-A**)*.
-4. Yejing Wang, Chi Zhang, Xiangyu Zhao, Qidong Liu, **Maolin Wang**, Xuetao Wei, Zitao Liu, Xing Shi, Yang Xudong, Ling Zhong, Wei Lin. (2025). *Behavior Modeling Space Reconstruction for E-Commerce Search*. In *The Web Conference (WWW) (**CCF-A**) **[Oral]***.
-5. **Maolin Wang**, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In *The Web Conference (WWW) (**CCF-A**) **[Oral]** **[Deployed in 5+ real-world scenarios at Ant Group and Alipay]***.
-6. **Maolin Wang**, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2024). *Tensorized Hypergraph Neural Networks*. In *SIAM International Conference on Data Mining (SDM) (**CCF-B**)*.
-7. Sheng Zhang^*, **Maolin Wang^***, Yao Zhao, Chenyi Zhuang, Ruocheng Guo, Xiangyu Zhao et al. (2024). *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems*. In *ACM Conference on Recommender Systems (RecSys) (**CCF-B**)*.
-    (^equal contribution)
-8. **Maolin Wang**, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2023). *Federated Knowledge Graph Completion via Latent Embedding Sharing*. In *IEEE International Conference on Data Mining (ICDM) (**CCF-B**)*.
-9. Kesen Zhao, Lixin Zou, Xiangyu Zhao, **Maolin Wang**, Dawei Yin. (2023). *User Retention-oriented Recommendation with Decision Transformer*. In *The Web Conference (WWW) (**CCF-A**)*.
-10. Xiaopeng LI^, **Maolin Wang^**, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
-     (^equal contribution)
-11. Yu Pan, **Maolin Wang**, and Zenglin Xu. (2021). *TedNet: A Pytorch Toolkit For Tensor Decomposition Networks*. In *Neurocomputing (**SCI-Q2**) **[100+ stars in Github]***.
-12. **Maolin Wang**, Zeyong Su, Xu Luo, Yu Pan, Shenggen Zheng and Zenglin Xu. (2020). *Concatenated Tensor Networks for Deep Multi-Task Learning*. In *International Conference on Neural Information Processing (ICONIP) (**CCF-C**)*.
-13. **Maolin Wang**, Chenbin Zhang, Yu Pan, Jing Xu and Zenglin Xu. (2019). *Tensor Ring Restricted Boltzmann Machines*. In *International Joint Conference on Neural Networks (IJCNN) (**CCF-C**) **Oral***.
-14. Yu Pan, Jing Xu, **Maolin Wang**, Jinmian Ye, Fei Wang, Kun Bai, and Zenglin Xu. (2019). *Compressing Recurrent Neural Networks with Tensor Ring for Action Recognition*. In *AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
+**Conference**
+[C14] **Maolin Wang**, Sheng Zhang, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (**CCF-A**)*.
+
+[C13] Yuhao Wang, Junwei Pan, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Zhixiang Feng, Xiaotian Li, Jie Jiang, Xiangyu Zhao. (2025). PAD: Large Language Models Enhancing Sequential Recommendation. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (**CCF-A**)*.
+
+[C12] **Maolin Wang**. (2025). *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*. In *PhD Symposium Track at IEEE International Conference on Data Engineering (ICDE)*.
+
+[C11] Sheng Zhang^*, **Maolin Wang^***, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF-A**)*.
+   (^equal contribution)
+
+[C10] Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). *SIGMA: Selective Gated Mamba for Sequential Recommendation*. In *AAAI Conference on Artificial Intelligence (**CCF-A**)*.
+
+[C9] Yejing Wang, Chi Zhang, Xiangyu Zhao, Qidong Liu, **Maolin Wang**, Xuetao Wei, Zitao Liu, Xing Shi, Yang Xudong, Ling Zhong, Wei Lin. (2025). *Behavior Modeling Space Reconstruction for E-Commerce Search*. In *The Web Conference (WWW) (**CCF-A**) **[Oral]***.
+
+[C8] **Maolin Wang**, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In *The Web Conference (WWW) (**CCF-A**) **[Oral]** **[Deployed in 5+ real-world scenarios at Ant Group and Alipay]***.
+
+[C7] **Maolin Wang**, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2024). *Tensorized Hypergraph Neural Networks*. In *SIAM International Conference on Data Mining (SDM) (**CCF-B**)*.
+
+[C6] Sheng Zhang^*, **Maolin Wang^***, Yao Zhao, Chenyi Zhuang, Ruocheng Guo, Xiangyu Zhao et al. (2024). *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems*. In *ACM Conference on Recommender Systems (RecSys) (**CCF-B**)*.
+   (^equal contribution)
+
+[C5] **Maolin Wang**, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2023). *Federated Knowledge Graph Completion via Latent Embedding Sharing*. In *IEEE International Conference on Data Mining (ICDM) (**CCF-B**)*.
+
+[C4] Kesen Zhao, Lixin Zou, Xiangyu Zhao, **Maolin Wang**, Dawei Yin. (2023). *User Retention-oriented Recommendation with Decision Transformer*. In *The Web Conference (WWW) (**CCF-A**)*.
+
+[C3] **Maolin Wang**, Zeyong Su, Xu Luo, Yu Pan, Shenggen Zheng and Zenglin Xu. (2020). *Concatenated Tensor Networks for Deep Multi-Task Learning*. In *International Conference on Neural Information Processing (ICONIP) (**CCF-C**)*.
+
+[C2] **Maolin Wang**, Chenbin Zhang, Yu Pan, Jing Xu and Zenglin Xu. (2019). *Tensor Ring Restricted Boltzmann Machines*. In *International Joint Conference on Neural Networks (IJCNN) (**CCF-C**) **Oral***.
+
+[C1] Yu Pan, Jing Xu, **Maolin Wang**, Jinmian Ye, Fei Wang, Kun Bai, and Zenglin Xu. (2019). *Compressing Recurrent Neural Networks with Tensor Ring for Action Recognition*. In *AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
+
+**Journals**
+
+[J2] Xiaopeng LI^, **Maolin Wang^**, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
+   (^equal contribution)
+
+[J1] Yu Pan, **Maolin Wang**, and Zenglin Xu. (2021). *TedNet: A Pytorch Toolkit For Tensor Decomposition Networks*. In *Neurocomputing (**SCI-Q2**) **[100+ stars in Github]***.
 
 # 📝 Patent
 
