@@ -23,6 +23,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 
 # 🔥 News
+- *2025.05*:  🎉🎉 Our paper *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation* has been accepted by IJCAI 2025!
 - *2025.04*:  🎉🎉 Our two papers have been accepted by SIGIR 2025!
 - *2025.02*:  🎉🎉 My paper, *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*, has been accepted by ICDE 2025 Doctoral Forum!
 - *2024.12*:  🎉🎉 Our paper, *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*, has been accepted by KDD 2025 **( I serve as co-first author)** !
@@ -30,6 +31,8 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 # 📝 Publications 
 
 **Conference Papers**
+
+[C15] **Maolin Wang**, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. In *International Joint Conference on Artificial Intelligence (**CCF-A**)*.
 
 [C14] **Maolin Wang**, Sheng Zhang, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (**CCF-A**)*.
 
