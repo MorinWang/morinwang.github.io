@@ -23,6 +23,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 
 # 🔥 News
+- *2025.05*:  🎉🎉 Our LLM-enhanced Recommender Systems Tutorial and Survey has been accepted by KDD 2025.
 - *2025.05*:  🎉🎉 Our paper *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation* has been accepted by IJCAI 2025!
 - *2025.04*:  🎉🎉 Our two papers have been accepted by SIGIR 2025!
 - *2025.02*:  🎉🎉 My paper, *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*, has been accepted by ICDE 2025 Doctoral Forum!
@@ -32,22 +33,24 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 **Conference Papers**
 
-[C15] **Maolin Wang**, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. In *International Joint Conference on Artificial Intelligence (**CCF-A**)*.
+[C16] Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, **Maolin Wang**, Pengyue Jia, Chong Chen, Wei Huang, Feng Tian. (2025). *Large language model enhanced recommender systems: Taxonomy, Trend, Application, and Future*. In Survey \& Tutorial Track at *SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF-A**)*.
 
-[C14] **Maolin Wang**, Sheng Zhang, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (**CCF-A**)*.
+[C15] **Maolin Wang**, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. In *International Joint Conference on Artificial Intelligence (IJCAI) (**CCF-A**)*.
 
-[C13] Yuhao Wang, Junwei Pan, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Zhixiang Feng, Xiaotian Li, Jie Jiang, Xiangyu Zhao. (2025). PAD: Large Language Models Enhancing Sequential Recommendation. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (**CCF-A**)*.
+[C14] **Maolin Wang**, Sheng Zhang, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (**CCF-A**)*.
 
-[C12] **Maolin Wang**. (2025). *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*. In *PhD Symposium Track at IEEE International Conference on Data Engineering (ICDE)*.
+[C13] Yuhao Wang, Junwei Pan, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Zhixiang Feng, Xiaotian Li, Jie Jiang, Xiangyu Zhao. (2025). PAD: Large Language Models Enhancing Sequential Recommendation. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (**CCF-A**)*.
 
-[C11] Sheng Zhang^*, **Maolin Wang^***, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF-A**)*.
+[C12] **Maolin Wang**. (2025). *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*. In PhD Symposium Track at *IEEE International Conference on Data Engineering (ICDE)*.
+
+[C11] Sheng Zhang^*, **Maolin Wang^***, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
    (^equal contribution)
 
 [C10] Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). *SIGMA: Selective Gated Mamba for Sequential Recommendation*. In *AAAI Conference on Artificial Intelligence (**CCF-A**)*.
 
 [C9] Yejing Wang, Chi Zhang, Xiangyu Zhao, Qidong Liu, **Maolin Wang**, Xuetao Wei, Zitao Liu, Xing Shi, Yang Xudong, Ling Zhong, Wei Lin. (2025). *Behavior Modeling Space Reconstruction for E-Commerce Search*. In *The Web Conference (WWW) (**CCF-A**) **[Oral]***.
 
-[C8] **Maolin Wang**, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In *The Web Conference (WWW) (**CCF-A**) **[Oral]** **[Deployed in 5+ real-world scenarios at Ant Group and Alipay]***.
+[C8] **Maolin Wang**, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In Industry Track at *The Web Conference (WWW) (**CCF-A**) **[Oral]** **[Deployed in 5+ real-world scenarios at Ant Group and Alipay]***.
 
 [C7] **Maolin Wang**, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2024). *Tensorized Hypergraph Neural Networks*. In *SIAM International Conference on Data Mining (SDM) (**CCF-B**)*.
 
