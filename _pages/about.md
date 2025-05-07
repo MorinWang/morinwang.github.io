@@ -33,7 +33,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 **Conference Papers**
 
-[C16] Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, **Maolin Wang**, Pengyue Jia, Chong Chen, Wei Huang, Feng Tian. (2025). *Large language model enhanced recommender systems: Taxonomy, Trend, Application, and Future*. In Survey \& Tutorial Track at *SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF-A**)*.
+[C16] Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, **Maolin Wang**, Pengyue Jia, Chong Chen, Wei Huang, Feng Tian. (2025). *Large language model enhanced recommender systems: Taxonomy, Trend, Application, and Future*. In Survey & Tutorial Track at *SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF-A**)*.
 
 [C15] **Maolin Wang**, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. In *International Joint Conference on Artificial Intelligence (IJCAI) (**CCF-A**)*.
 
