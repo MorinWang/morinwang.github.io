@@ -25,6 +25,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 # 🔥 News
 - *2025.05*:  🎉🎉 Our two papers have been accepted by ACL 2025 (1 for Findings and 1 for Main)!
 - *2025.05*:  🎉🎉 Our three papers have been accepted by KDD 2025 (Research Track)!
+- *2025.05*:  🎉🎉 As one of his mentors, I am proud that Tianshuo Wei has been awarded the Outstanding Dissertation Award.
 - *2025.05*:  🎉🎉 Our LLM-enhanced Recommender Systems Tutorial and Survey has been accepted by KDD 2025 (Survey Track).
 - *2025.05*:  🎉🎉 Our paper *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation* has been accepted by IJCAI 2025!
 - *2025.04*:  🎉🎉 Our two papers have been accepted by SIGIR 2025!
@@ -120,6 +121,23 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 - *2020-2025*, **Journal Reviewer**,
   
    IEEE TNNLS, IEEE Trans. on Big Data, Neural Networks, Neurocomputing, ACM TKDD, IEEE JSAC, Scientific Reports 
+
+# 👨‍🏫 Mentorship
+
+**Cityu HK Students Under My Supervision/Co-Supervision**  
+*Co-supervision with Prof. Xiangyu Zhao*  
+City University of Hong Kong (2024-Present)
+- Tuohuan You (2024.12-)
+- Yanxin Chen (2024.12-) With Derong Xu
+- Linjie Mi (2024.09-) With Yingyi Zhang
+- Xuhui Chen (2024.09-) With Wenlin Zhang
+- Binhao Wang (2024.09-) With Zichuan Fu 
+- Zhiqi Li (2024.09-) 
+- Tianshuo Wei (2024.09-) **Outstanding Dissertation Award**
+- Bowen Yu (2024.09-)
+- Sheng Zhang (2023.09-2024.09) **Outstanding Academic Performance Award**, **Outstanding Research Project Award**, current position - Assistant Engineer, Chinese Academy of Sciences
+- Jie Wang (2022.09-2023.09) **Outstanding Dissertation Award**, current position - HK AIFT
+- Tong Wu (2022.09-2023.09) Current position - Kuaishou
 
 # 💻 Internships
 - *2024.06 - 2025.03*, Research Intern, Alipay Department, Ant Group, Hangzhou, China
