@@ -122,7 +122,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
   
    IEEE TNNLS, IEEE Trans. on Big Data, Neural Networks, Neurocomputing, ACM TKDD, IEEE JSAC, Scientific Reports 
 
-# 👨‍🏫 Mentorship
+# 👨‍🏫 Mentorships
 
 **Cityu HK Students Under My Supervision/Co-Supervision**  
 *Co-supervision with Prof. Xiangyu Zhao*  
