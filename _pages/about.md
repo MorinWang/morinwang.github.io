@@ -57,7 +57,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 [C9] Yejing Wang, Chi Zhang, Xiangyu Zhao, Qidong Liu, **Maolin Wang**, Xuetao Wei, Zitao Liu, Xing Shi, Yang Xudong, Ling Zhong, Wei Lin. (2025). *Behavior Modeling Space Reconstruction for E-Commerce Search*. In *The Web Conference (WWW) (**CCF-A**) **[Oral]***.
 
-[C8] **Maolin Wang**, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In Industry Track at *The Web Conference (WWW) (**CCF-A**) **[Oral]** **[Deployed in 5+ real-world scenarios at Ant Group and Alipay]***.
+[C8] **Maolin Wang**, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In Industry Track at *The Web Conference (WWW) (**CCF-A**) **[Oral]** <span style="color: red">[Deployed in 5+ real-world scenarios at Ant Group and Alipay]</span>.
 
 [C7] **Maolin Wang**, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2024). *Tensorized Hypergraph Neural Networks*. In *SIAM International Conference on Data Mining (SDM) (**CCF-B**)*.
 
