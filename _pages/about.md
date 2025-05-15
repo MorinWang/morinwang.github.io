@@ -23,7 +23,8 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 
 # 🔥 News
-- *2025.05*:  🎉🎉 Our LLM-enhanced Recommender Systems Tutorial and Survey has been accepted by KDD 2025.
+- *2025.05*:  🎉🎉 Our three papers have been accepted by KDD 2025 (Research Track)!
+- *2025.05*:  🎉🎉 Our LLM-enhanced Recommender Systems Tutorial and Survey has been accepted by KDD 2025 (Survey Track).
 - *2025.05*:  🎉🎉 Our paper *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation* has been accepted by IJCAI 2025!
 - *2025.04*:  🎉🎉 Our two papers have been accepted by SIGIR 2025!
 - *2025.02*:  🎉🎉 My paper, *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*, has been accepted by ICDE 2025 Doctoral Forum!
@@ -32,6 +33,12 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 # 📝 Publications 
 
 **Conference Papers**
+
+[C19] **Maolin Wang**, Yutian Xiao, Binhao Wang, Sheng Zhang, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
+
+[C18] Yi Wen, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, KE LIANG, **Maolin Wang**, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao. (2025). *Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
+
+[C17] Yingyi Zhang, Pengyue Jia, Xianneng Li, Derong Xu, **Maolin Wang**, Yichao Wang, Zhaocheng Du, Huifeng Guo, Yong Liu, Ruiming Tang, Xiangyu Zhao. (2025). *LSRP: A Leader–Subordinate Retrieval Framework for Privacy-Preserving Cloud–Device Collaboration*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
 
 [C16] Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, **Maolin Wang**, Pengyue Jia, Chong Chen, Wei Huang, Feng Tian. (2025). *Large language model enhanced recommender systems: Taxonomy, Trend, Application, and Future*. In Survey & Tutorial Track at *SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF-A**)*.
 
