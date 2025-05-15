@@ -126,7 +126,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 **Cityu HK Students Under My Supervision/Co-Supervision**  
 *Co-supervision with Prof. Xiangyu Zhao*  
-City University of Hong Kong (2024-Present)
+City University of Hong Kong (2022-Present)
 - Tuohuan You (2024.12-)
 - Yanxin Chen (2024.12-) With Derong Xu
 - Linjie Mi (2024.09-) With Yingyi Zhang
@@ -134,7 +134,7 @@ City University of Hong Kong (2024-Present)
 - Binhao Wang (2024.09-) With Zichuan Fu 
 - Zhiqi Li (2024.09-) 
 - Tianshuo Wei (2024.09-) **Outstanding Dissertation Award**
-- Bowen Yu (2024.09-)
+- Bowen Yu (2024.09-) Next position - PhD student, AML Lab, City University of Hong Kong.
 - Sheng Zhang (2023.09-2024.09) **Outstanding Academic Performance Award**, **Outstanding Research Project Award**, current position - Assistant Engineer, Chinese Academy of Sciences
 - Jie Wang (2022.09-2023.09) **Outstanding Dissertation Award**, current position - HK AIFT
 - Tong Wu (2022.09-2023.09) Current position - Kuaishou
