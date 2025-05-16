@@ -23,6 +23,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 
 # 🔥 News
+- *2025.05*:  🎉🎉 As one of their mentors, I am proud that Tianshuo Wei, Xuhui Chen, Yanxin Chen, and Linjie Mi have been awarded the Outstanding Performance Award.
 - *2025.05*:  🎉🎉 Our two papers have been accepted by ACL 2025 (1 for Findings and 1 for Main)!
 - *2025.05*:  🎉🎉 Our three papers have been accepted by KDD 2025 (Research Track)!
 - *2025.05*:  🎉🎉 As one of his mentors, I am proud that Tianshuo Wei has been awarded the Outstanding Dissertation Award.
@@ -128,14 +129,14 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 *Co-supervision with Prof. Xiangyu Zhao*  
 City University of Hong Kong (2022-Present)
 - Tuohuan You (2024.12-)
-- Yanxin Chen (2024.12-) With Derong Xu
-- Linjie Mi (2024.09-) With Yingyi Zhang
-- Xuhui Chen (2024.09-) With Wenlin Zhang
+- Yanxin Chen (2024.12-) With Derong Xu, **Outstanding Performance Award**
+- Linjie Mi (2024.09-) With Yingyi Zhang, **Outstanding Performance Award**
+- Xuhui Chen (2024.09-) With Wenlin Zhang, **Outstanding Performance Award**
 - Binhao Wang (2024.09-) With Zichuan Fu 
 - Zhiqi Li (2024.09-) 
-- Tianshuo Wei (2024.09-) **Outstanding Dissertation Award**
-- Bowen Yu (2024.09-) Next position - PhD student, AML Lab, City University of Hong Kong.
-- Sheng Zhang (2023.09-2024.09) **Outstanding Academic Performance Award**, **Outstanding Research Project Award**, current position - Assistant Engineer, Chinese Academy of Sciences
+- Tianshuo Wei (2024.09-) **Outstanding Dissertation Award** and **Outstanding Performance Award**
+- Bowen Yu (2024.09-) Next position - PhD student, AML Lab, City University of Hong Kong
+- Sheng Zhang (2023.09-2024.09) **Outstanding Performance Award**, **Outstanding Research Project Award**, current position - Assistant Engineer, Chinese Academy of Sciences
 - Jie Wang (2022.09-2023.09) **Outstanding Dissertation Award**, current position - HK AIFT
 - Tong Wu (2022.09-2023.09) Current position - Kuaishou
 
