@@ -23,6 +23,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 
 # 🔥 News
+- *2025.05*:  🎉🎉 The representative work from my PhD period, *Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework* (EI-BERT), has been accepted by KDD 2025. Now, the 1.9 MB-sized EI-BERT has become <span style="color: red">[a fundamental capability in Alipay.]</span>
 - *2025.05*:  🎉🎉 As one of their mentors, I am proud that Tianshuo Wei, Xuhui Chen, Yanxin Chen, and Linjie Mi have been awarded the Outstanding Performance Award.
 - *2025.05*:  🎉🎉 Our two papers have been accepted by ACL 2025 (1 for Findings and 1 for Main)!
 - *2025.05*:  🎉🎉 Our three papers have been accepted by KDD 2025 (Research Track)!
@@ -36,6 +37,8 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 # 📝 Publications 
 
 **Conference Papers**
+
+[C22] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (Year). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[Deployed in 10+ real-world scenarios at Ant Group and Alipay]</span>.
 
 [C21] Jingyu Peng^, **Maolin Wang^**, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu. (2025). *Stepwise Reasoning Error Disruption Attack of LLMs*. In *Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*.  (^equal contribution)
 
