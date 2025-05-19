@@ -118,13 +118,15 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
    Chair of "Specialized Innovations in Recommender Systems" and "User Modeling for Recommenders" sessions
 - *2024-2025*, Program Committee Member and Conference Reviewer,
 
-   **PC Member**: WWW 2025 (Demo Track), CIKM 2024, PAKDD 2025, CIKM 2025
+  **Senior PC Member**: CIKM 2025 (Short Paper Track)
+
+   **PC Member**: WWW 2025 (Demo Track), CIKM 2024, PAKDD 2025, CIKM 2025, GENNEXT@SIGIR’25
   
-   **Reviewer**: NeurIPS 2024, KDD 2025, ICLR 2025, AISTATS 2025, ICML 2025, SIGIR 2025, NeurIPS 2025
+   **Reviewer**: NeurIPS 2024, KDD 2025, ICLR 2025, AISTATS 2025, ICML 2025, IEEE DSAA 2025, SIGIR 2025, NeurIPS 2025, ACMMM 2025
   
 - *2020-2025*, **Journal Reviewer**,
   
-   IEEE TNNLS, IEEE Trans. on Big Data, Neural Networks, Neurocomputing, ACM TKDD, IEEE JSAC, Scientific Reports 
+   IEEE TNNLS, IEEE Trans. on Big Data, Neural Networks, Neurocomputing, ACM TKDD, IEEE TKDE, IEEE JSAC, Scientific Reports 
 
 # 👨‍🏫 Mentorships
 
