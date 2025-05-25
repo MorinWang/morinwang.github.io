@@ -40,7 +40,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 [C22] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[Deployed in 10+ real-world scenarios at Ant Group and Alipay]</span>.
 
-[C21] Jingyu Peng^, **Maolin Wang^**, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu. (2025). *Stepwise Reasoning Error Disruption Attack of LLMs*. In *Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*.  (^equal contribution)
+[C21] Jingyu Peng, **Maolin Wang**, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu. (2025). *Stepwise Reasoning Error Disruption Attack of LLMs*. In *Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*. 
 
 [C20] Pengyue Jia, Derong Xu, Xiaopeng Li, Zhaocheng Du, Xiangyang Li, Yichao Wang, Yuhao Wang, Qidong Liu, **Maolin Wang**, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. (2025). Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation. In Findings of *Annual Meeting of the Association for Computational Linguistics (ACL)*.
 
@@ -60,8 +60,8 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 [C12] **Maolin Wang**. (2025). *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*. In PhD Symposium Track at *IEEE International Conference on Data Engineering (ICDE)*.
 
-[C11] Sheng Zhang^, **Maolin Wang^**, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
-   (^equal contribution)
+[C11] Sheng Zhang, **Maolin Wang**, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
+  
 
 [C10] Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). *SIGMA: Selective Gated Mamba for Sequential Recommendation*. In *AAAI Conference on Artificial Intelligence (**CCF-A**)*.
 
@@ -71,8 +71,8 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 [C7] **Maolin Wang**, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2024). *Tensorized Hypergraph Neural Networks*. In *SIAM International Conference on Data Mining (SDM) (**CCF-B**)*.
 
-[C6] Sheng Zhang^*, **Maolin Wang^***, Yao Zhao, Chenyi Zhuang, Ruocheng Guo, Xiangyu Zhao et al. (2024). *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems*. In *ACM Conference on Recommender Systems (RecSys) (**CCF-B**)*.
-   (^equal contribution)
+[C6] Sheng Zhang*, **Maolin Wang***, Yao Zhao, Chenyi Zhuang, Ruocheng Guo, Xiangyu Zhao et al. (2024). *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems*. In *ACM Conference on Recommender Systems (RecSys) (**CCF-B**)*.
+
 
 [C5] **Maolin Wang**, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2023). *Federated Knowledge Graph Completion via Latent Embedding Sharing*. In *IEEE International Conference on Data Mining (ICDM) (**CCF-B**)*.
 
@@ -86,8 +86,8 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 **Journal Papers**
 
-[J2] Xiaopeng LI^, **Maolin Wang^**, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
-   (^equal contribution)
+[J2] Xiaopeng LI, **Maolin Wang**, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
+
 
 [J1] Yu Pan, **Maolin Wang**, and Zenglin Xu. (2021). *TedNet: A Pytorch Toolkit For Tensor Decomposition Networks*. In *Neurocomputing (**SCI-Q2**) **[100+ stars in Github]***.
 
