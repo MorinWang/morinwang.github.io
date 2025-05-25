@@ -59,7 +59,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 [C13] Yuhao Wang, Junwei Pan, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Zhixiang Feng, Xiaotian Li, Jie Jiang, Xiangyu Zhao. (2025). PAD: Large Language Models Enhancing Sequential Recommendation. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (**CCF-A**)*.
 
-[C12] **Maolin Wang**. (2025). *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*. In PhD Symposium Track at *IEEE International Conference on Data Engineering (ICDE)*.
+[C12] **Maolin Wang**, Xiangyu Zhao. (2025). *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*. In PhD Symposium Track at *IEEE International Conference on Data Engineering (ICDE)*.
 
 [C11] Sheng Zhang, **Maolin Wang**, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
   
