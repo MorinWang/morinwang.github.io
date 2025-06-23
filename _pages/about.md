@@ -23,6 +23,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 
 # 🔥 News
+- *2025.05*:  🎉🎉 I am delighted that I have been selected to receive a SIGKDD-supported KDD 2025 Student Travel Award ($1000)!
 - *2025.05*:  🎉🎉 As one of his mentors, I am proud that Xuhui Chen has been awarded the Outstanding Academic Performance Award (Top 2/200).
 - *2025.05*:  🎉🎉 The representative work from my PhD period, *Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework* (EI-BERT), has been accepted by KDD 2025. Now, the 1.9 MB-sized EI-BERT has become <span style="color: red">a fundamental capability in Alipay.</span>
 - *2025.05*:  🎉🎉 As one of their mentors, I am proud that Tianshuo Wei, Xuhui Chen, Yanxin Chen, and Linjie Mi have been awarded the Outstanding Performance Award.
@@ -97,6 +98,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 1. Xiao Peng LI, Hing Cheung SO, **Maolin Wang**. *METHOD AND ELECTRONIC DEVICE FOR RECOVERING DATA USING BI-BRANCH NEURAL NETWORK*. U.S. Patent.
 
 # 🎖 Honors and Awards
+- KDD Student Travel Award
 - SDM Student Travel Award
 - Research Tuition Scholarship, City University of Hong Kong
 - UGC Full PhD Scholarship, City University of Hong Kong
