@@ -24,6 +24,7 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 # 🔥 News
 - *2025.08*: 🎉🎉 The representative work from my PhD period, *Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework* (EI-BERT), has received the **Best Paper Award Runner Up** at KDD2025!🎉🎉
+- *2025.08*:  🎉🎉 Our three papers have been accepted by CIKM 2025. 
 - *2025.07*: 🎉🎉 I am honored to receive an invitation from Professor Xile Zhao to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team.
 - *2025.07*: 🎉🎉 I am honored to receive an invitation from Professor Ce Zhu to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team.
 - *2025.06*: 🎉🎉 I am honored to receive an invitation from Tencent to present an invited talk on 'Function Calling in Industrial Scenarios.' 
@@ -44,7 +45,13 @@ Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the super
 
 **Conference Papers**
 
-[C22] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[Deployed in 10+ real-world scenarios at Ant Group and Alipay]</span>.
+[C25] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[Deployed in 10+ real-world scenarios at Ant Group and Alipay]</span>.
+
+[C24] Tongzhou Wu, Yuhao Wang, **Maolin Wang**, Chi Zhang, Xiangyu Zhao. (2025). *Empowering Denoising Sequential Recommendation with Large Language Model Embeddings*. In *ACM International Conference on Information and Knowledge Management (CIKM) (**CCF-B**)*.
+
+[C23] Yuhao Wang, Junwei Pan, Xinhang Li, **Maolin Wang**, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang, Xiangyu Zhao. (2025). *Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs*. In *ACM International Conference on Information and Knowledge Management (CIKM) (**CCF-B**)*.
+
+[C22] Binhao Wang, Yutian Xiao, **Maolin Wang**, Zhiqi Li, Tianshuo Wei, Ruocheng Guo, Xiangyu Zhao. (2025). SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation. In ACM International Conference on Information and Knowledge Management (CIKM) (CCF-B).
 
 [C21] Jingyu Peng, **Maolin Wang**, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu. (2025). *Stepwise Reasoning Error Disruption Attack of LLMs*. In *Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*. 
 
