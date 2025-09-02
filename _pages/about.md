@@ -19,10 +19,11 @@ redirect_from:
 
 
 
-Maolin Wang is a Ph.D. candidate at City University of Hong Kong under the supervision of ***Prof. Xiangyu Zhao*** and co-supervision of ***Dr. Ruocheng Guo and Prof. Junhui Wang***. His research focuses on graph learning, model compression, tensor/matrix decomposition, and LLMs. Prior to his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***. His ultimate goal is to contribute to the advancement of sustainable AI that is both powerful and environmentally responsible, making AI more accessible to everyone.
+Dr. Maolin Wang was a Ph.D. candidate at City University of Hong Kong under the supervision of ***Prof. Xiangyu Zhao*** and co-supervision of ***Dr. Ruocheng Guo and Prof. Junhui Wang***. His research focuses on graph learning, model compression, tensor/matrix decomposition, and LLMs. Prior to his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***. His ultimate goal is to contribute to the advancement of sustainable AI that is both powerful and environmentally responsible, making AI more accessible to everyone.
 
 
 # 🔥 News
+- *2025.09*: 🎉🎉 I successfully defended my Ph.D. thesis titled 'Tensor Criterion-Based Neural Networks'.
 - *2025.08*: 🎉🎉 The representative work from my PhD period, *Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework* (EI-BERT), has received the **Best Paper Award Runner Up** at KDD2025!🎉🎉
 - *2025.08*:  🎉🎉 Our three papers have been accepted by CIKM 2025. 
 - *2025.07*: 🎉🎉 I am honored to receive an invitation from Professor Xile Zhao to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team.
