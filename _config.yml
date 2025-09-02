@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Maolin Wang"
+  name             : "Dr. Maolin Wang"
   avatar           : "images/MaolinWang.png"
-  bio              : "Ph.D. Candidate at City University of Hong Kong"
+  bio              : "City University of Hong Kong"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
