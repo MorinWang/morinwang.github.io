@@ -23,13 +23,14 @@ Dr. Maolin Wang was a Ph.D. candidate at City University of Hong Kong under the 
 
 
 # 🔥 News
+- *2025.10*: 🎉🎉 I am honored to receive an invitation from Dr. Rui Chen to present an invited talk on 'Modern Model Compression Techniques' to his research team at Harbin Engineering University.
 - *2025.09*: 🎉🎉 Invited as a Guest Editor for Special Issue on *Advances in Quantum Machine Learning: Variational Algorithms and Tensor Network Methods* for *Discover Quantum Science* Journal.
 - *2025.09*: 🎉🎉 I successfully defended my Ph.D. thesis titled 'Tensor Criterion-Based Neural Networks'.
 - *2025.08*: 🎉🎉 The representative work from my PhD period, *Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework* (EI-BERT), has received the **Best Paper Award Runner Up** at KDD2025!🎉🎉
 - *2025.08*:  🎉🎉 Our three papers have been accepted by CIKM 2025.
-- *2025.07*: 🎉🎉 I am honored to receive an invitation from Dr. Yubang Zheng to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team.
-- *2025.07*: 🎉🎉 I am honored to receive an invitation from Professor Xile Zhao to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team.
-- *2025.07*: 🎉🎉 I am honored to receive an invitation from Professor Ce Zhu to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team.
+- *2025.07*: 🎉🎉 I am honored to receive an invitation from Dr. Yubang Zheng to present an invited talk on 'Modern Model Compression Techniques' to his research team at Southwest Jiaotong University.
+- *2025.07*: 🎉🎉 I am honored to receive an invitation from Professor Xile Zhao to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team at UESTC.
+- *2025.07*: 🎉🎉 I am honored to receive an invitation from Professor Ce Zhu to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team at UESTC.
 - *2025.06*: 🎉🎉 I am honored to receive an invitation from Tencent to present an invited talk on 'Function Calling in Industrial Scenarios.' 
 - *2025.05*:  🎉🎉 I am delighted that I have been selected to receive a SIGKDD-supported KDD 2025 Student Travel Award ($1000)!
 - *2025.05*:  🎉🎉 As one of his mentors, I am proud that Xuhui Chen has been awarded the Outstanding Academic Performance Award (Top 2/200).
