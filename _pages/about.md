@@ -23,6 +23,7 @@ Dr. Maolin Wang was a Ph.D. candidate at City University of Hong Kong under the 
 
 
 # 🔥 News
+- *2025.10*: 🎉🎉 I am honored to receive an invitation from Dr. Xiao Han and Prof. Linan Zhu to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team at Zhejiang University of Technology.
 - *2025.10*: 🎉🎉 I am honored to receive an invitation from Dr. Rui Chen to present an invited talk on 'Modern Model Compression Techniques' to his research team at Harbin Engineering University.
 - *2025.09*: 🎉🎉 Invited as a Guest Editor for Special Issue on *Advances in Quantum Machine Learning: Variational Algorithms and Tensor Network Methods* for *Discover Quantum Science* Journal.
 - *2025.09*: 🎉🎉 I successfully defended my Ph.D. thesis titled 'Tensor Criterion-Based Neural Networks'.
