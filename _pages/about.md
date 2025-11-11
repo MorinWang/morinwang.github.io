@@ -23,6 +23,7 @@ Dr. Maolin Wang was a Ph.D. candidate at City University of Hong Kong under the 
 
 
 # 🔥 News
+- *2025.11*:  🎉🎉 Our paper, *Renormalization Group Guided Tensor Network Structure Search*, has been accepted by AAAI 2026!
 - *2025.10*: 🎉🎉 I am honored to receive an invitation from Dr. Xiao Han and Prof. Linan Zhu to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team at Zhejiang University of Technology.
 - *2025.10*: 🎉🎉 I am honored to receive an invitation from Dr. Rui Chen to present an invited talk on 'Modern Model Compression Techniques' to his research team at Harbin Engineering University.
 - *2025.09*: 🎉🎉 Invited as a Guest Editor for Special Issue on *Advances in Quantum Machine Learning: Variational Algorithms and Tensor Network Methods* for *Discover Quantum Science* Journal.
@@ -44,13 +45,17 @@ Dr. Maolin Wang was a Ph.D. candidate at City University of Hong Kong under the 
 - *2025.05*:  🎉🎉 Our paper *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation* has been accepted by IJCAI 2025!
 - *2025.04*:  🎉🎉 Our two papers have been accepted by SIGIR 2025!
 - *2025.02*:  🎉🎉 My paper, *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*, has been accepted by ICDE 2025 Doctoral Forum!
-- *2024.12*:  🎉🎉 Our paper, *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*, has been accepted by KDD 2025 **( I serve as co-first author)** !
+- *2024.12*:  🎉🎉 Our paper, *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*, has been accepted by KDD 2025!
 
 # 📝 Publications 
 
 **Conference Papers**
 
-[C25] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[Deployed in 10+ real-world scenarios at Ant Group and Alipay]</span>.
+[C27] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[**Best Paper Award Runner Up** at KDD2025]</span>. *Deployed in 10+ real-world scenarios at Ant Group and Alipay.*
+
+[C26] **Maolin Wang**, Bowen Yu, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2026). Renormalization Group Guided Tensor Network Structure Search. In *Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
+
+[C26] Xiao Han, Zimo Zhao, Wanyu Wang, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning. In *Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS) (**CCF-A**)*.
 
 [C24] Tongzhou Wu, Yuhao Wang, **Maolin Wang**, Chi Zhang, Xiangyu Zhao. (2025). *Empowering Denoising Sequential Recommendation with Large Language Model Embeddings*. In *ACM International Conference on Information and Knowledge Management (CIKM) (**CCF-B**)*.
 
