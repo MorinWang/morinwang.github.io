@@ -156,6 +156,9 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
    IEEE TNNLS, IEEE Trans. on Big Data, Neural Networks, Neurocomputing, ACM TKDD, IEEE TKDE, IEEE JSAC, Scientific Reports 
 
 # 👨‍🏫 Mentorships
+
+**MAPLE🍁** stands for **MA**chine intelligence and **P**robabilistic **LE**arning. I wish that, upon leaving my guidance, my mentored students will embark on futures as vibrant and remarkable as the autumn maple.
+
 **Cityu HK Master Students Under My Supervision**  
 Hong Kong Institute of AI for Science, City University of Hong Kong (2025-Now)
 - Hongyu Chen (2025.09-) Research Assistant, HKAI-Sci (MAPLE🍁 @7th) 
