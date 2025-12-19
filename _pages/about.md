@@ -23,6 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
+- *2025.12*: 🎉🎉  I'm delighted that one of my previous master student at CityU, Junjie Liu, secured his job at Huawei. I truly miss the days we spent discussing multimodal fake news detection, and I hope our paper will be published soon.
 - *2025.12*: 🎉🎉 I am honored to receive an invitation from Prof. Qibin Zhao and Dr. Chao Li to present an invited talk on 'Modern Model Compression Techniques' at RIKEN Center for Advanced Intelligence Project (AIP).
 - *2025.11*:  🎉🎉 Our paper, *Renormalization Group Guided Tensor Network Structure Search*, has been accepted by AAAI 2026!
 - *2025.10*: 🎉🎉 I am honored to receive an invitation from Dr. Xiao Han and Prof. Linan Zhu to present an invited talk on 'Tensor Criterion-Based Neural Networks' to his research team at Zhejiang University of Technology.
@@ -155,21 +156,41 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
    IEEE TNNLS, IEEE Trans. on Big Data, Neural Networks, Neurocomputing, ACM TKDD, IEEE TKDE, IEEE JSAC, Scientific Reports 
 
 # 👨‍🏫 Mentorships
-
-**Cityu HK Students Under My Supervision/Co-Supervision**  
+**Cityu HK Master Students Under My Supervision**  
+Hong Kong Institute of AI for Science, City University of Hong Kong (2025-Now)
+- Hongyu Chen (2025.09-) Research Assistant, HKAI-Sci (MAPLE🍁 @7th) 
+- Beining Bao (2025.09-) Research Assistant, HKAI-Sci (MAPLE🍁 @7th) 
+  
+**Cityu HK Master Students Under My Co-Supervision**  
 *Co-supervision with Prof. Xiangyu Zhao*  
-City University of Hong Kong (2022-Present)
-- Tuohuan You (2024.12-)
-- Yanxin Chen (2024.12-) With Derong Xu, **Outstanding Performance Award**
-- Linjie Mi (2024.09-) With Yingyi Zhang, **Outstanding Performance Award**
-- Xuhui Chen (2024.09-) With Wenlin Zhang, **Outstanding Performance Award** and **Outstanding Academic Performance Award**
-- Binhao Wang (2024.09-) With Zichuan Fu 
-- Zhiqi Li (2024.09-) 
-- Tianshuo Wei (2024.09-) **Outstanding Dissertation Award** and **Outstanding Performance Award**
-- Bowen Yu (2024.09-) Next position - PhD student, AML Lab, City University of Hong Kong
-- Sheng Zhang (2023.09-2024.09) **Outstanding Academic Performance Award**, **Outstanding Research Project Award**, current position - Assistant Engineer, Chinese Academy of Sciences
-- Jie Wang (2022.09-2023.09) **Outstanding Dissertation Award**, current position - HK AIFT
-- Tong Wu (2022.09-2023.09) Current position - Kuaishou
+AML Lab, City University of Hong Kong (2022-2025)
+- Zichun Liu (2025.09-) (MAPLE🍁 @7th)
+- Hongyu Chen (2025.09-) (MAPLE🍁 @7th) 
+- Beining Bao (2025.09-) (MAPLE🍁 @7th) 
+- Zeyuan Zhu (2025.09-) (MAPLE🍁 @7th)
+- Ziting Mai (2025.09-) (MAPLE🍁 @7th)
+- Chengxi Wei (2025.09-) (MAPLE🍁 @7th)
+- Yunbo Zhang (2025.09-) (MAPLE🍁 @7th)
+- Tongshu Bian (2025.06-2025.09) current position - PhD student (Supervised by Prof. Baotian Hu), Harbin Institute of Technology (Shenzhen) (MAPLE🍁 @6th)
+- Yinuo Ma (2025.06-2025.09) (MAPLE🍁 @6th)
+- Pengzhi Zhong (2025.06-2025.09) current position - Dabanc HK (MAPLE🍁 @5th)
+- Junjie Liu (2024.12-2025.09) current position - Huawei (MAPLE🍁 @4th)
+- Tuohuan You (2024.12-2025.09) (MAPLE🍁 @4th)
+- Yanxin Chen (2024.12-2025.09) With Derong Xu, **Outstanding Performance Award**, current position - Research Assistant, Fudan University (MAPLE🍁 @4th)
+- Linjie Mi (2024.12-2025.09) With Yingyi Zhang, **Outstanding Performance Award**, current position - Research Assistant, Shanghai Jiaotong University  (MAPLE🍁 @4th)
+- Xuhui Chen (2024.12-2025.09) With Wenlin Zhang, **Outstanding Performance Award** and **Outstanding Academic Performance Award**, current position - PhD student (Supervised by Prof. Baotian Hu), Harbin Institute of Technology (Shenzhen) (MAPLE🍁 @4th)
+- Binhao Wang (2024.12-2025.09) With Zichuan Fu, current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @4th)
+- Zhiqi Li (2024.12-2025.09) current position - Research Assistant, SMILE Lab, Fudan University  (MAPLE🍁 @4th)
+- Tianshuo Wei (2024.09-2025.09) **Outstanding Dissertation Award** and **Outstanding Performance Award**, current position - Research Assistant, City University of Hong Kong  (MAPLE🍁 @3th)
+- Bowen Yu (2024.09-2025.09) Current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @3th)
+- Sheng Zhang (2023.09-2024.09) **Outstanding Academic Performance Award**, **Outstanding Research Project Award**, current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @2nd)
+- Jie Wang (2022.09-2023.09) **Outstanding Dissertation Award**, current position - HK AIFT (MAPLE🍁 @1st)
+- Tong Wu (2022.09-2023.09) Current position - Kuaishou (MAPLE🍁 @1st)
+
+**Ant Group Junior Internship Mentees**
+*Co-supervision with Dr. Chenyi Zhuang*(2024-2025)
+- Bingguang Hao (2025.06-2025.12) Master student at UESTC (MAPLE🍁 @6th)
+
 
 # 💻 Internships
 - *2024.06 - 2025.03*, Research Intern, Alipay Department, Ant Group, Hangzhou, China
