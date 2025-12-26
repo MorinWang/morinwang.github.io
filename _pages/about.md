@@ -23,6 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
+- *2025.12*:  🎉🎉 Our paper, *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*, has been accepted by ACM Computing Surveys (IF=	26.3)!
 - *2025.12*: 🎉🎉  I'm delighted that one of my previously supervised master students at CityU, Junjie Liu, secured his job at Huawei. I truly miss the days we spent discussing multimodal fake news detection, and I hope our paper will be published soon.
 - *2025.12*: 🎉🎉 I am honored to receive an invitation from Prof. Qibin Zhao and Dr. Chao Li to present an invited talk on 'Modern Model Compression Techniques' at RIKEN Center for Advanced Intelligence Project (AIP).
 - *2025.11*:  🎉🎉 Our paper, *Renormalization Group Guided Tensor Network Structure Search*, has been accepted by AAAI 2026!
