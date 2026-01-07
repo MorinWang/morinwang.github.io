@@ -112,6 +112,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 **Journal Papers**
 
+[J3]  **Maolin Wang**, Yingyi Zhang, Bowen Yu, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*. In ACM Computing Surveys (**Impact Factor: 26.3**) (**SCI-Q2**).
+
 [J2] Xiaopeng LI, **Maolin Wang**, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
 
 
@@ -133,8 +135,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 - The Third Academic Scholarship, University of Electronic Science and Technology of China
 
 # 📖 Educations
-- *2021.09 - Present*, Ph.D. in Data Science, City University of Hong Kong, Hong Kong SAR
-   Supervisors: **Prof. Xiangyu Zhao, Dr. Ruochen Guo (External) and Prof. Junhui Wang (External)**
+- *2021.09 - 2025.10*, Ph.D. in Data Science, City University of Hong Kong, Hong Kong SAR
+   Supervisors: **Prof. Xiangyu Zhao, Dr. Ruochen Guo (External), and Prof. Junhui Wang (External)**
 - *2018.09 - 2021.06*, M.Phil. in Computer Science, University of Electronic Science and Technology of China, Chengdu, China
    Supervisor: **Prof. Zenglin Xu**
 - *2014.09 - 2018.06*, B.E. in Computer Science (Yingcai Honors College), University of Electronic Science and Technology of China, Chengdu, China
@@ -184,7 +186,7 @@ AML Lab, City University of Hong Kong (2022-2025)
 - Linjie Mi (2024.12-2025.09) With Yingyi Zhang, **Outstanding Performance Award**, current position - Research Assistant, Shanghai Jiaotong University  (MAPLE🍁 @4th)
 - Xuhui Chen (2024.12-2025.09) With Wenlin Zhang, **Outstanding Performance Award** and **Outstanding Academic Performance Award**, current position - PhD student (Supervised by Prof. Baotian Hu), Harbin Institute of Technology (Shenzhen) (MAPLE🍁 @4th)
 - Binhao Wang (2024.12-2025.09) With Zichuan Fu, current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @4th)
-- Zhiqi Li (2024.12-2025.09) current position - Research Assistant, SMILE Lab, Fudan University  (MAPLE🍁 @4th)
+- Zhiqi Li (2024.12-2025.09) current position - Research Assistant, SMILE Lab (Supervised by Prof. Zenglin Xu), Fudan University  (MAPLE🍁 @4th)
 - Tianshuo Wei (2024.09-2025.09) **Outstanding Dissertation Award** and **Outstanding Performance Award**, current position - Research Assistant, City University of Hong Kong  (MAPLE🍁 @3th)
 - Bowen Yu (2024.09-2025.09) Current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @3th)
 - Sheng Zhang (2023.09-2024.09) **Outstanding Academic Performance Award**, **Outstanding Research Project Award**, current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @2nd)
