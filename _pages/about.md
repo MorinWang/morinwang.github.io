@@ -54,7 +54,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 **Conference Papers**
 
-[C33] **Maolin Wang**, Lang Fu, Jun Chu, Kai Guo, Chenjie Qin, Xinxin Wang, Siyu Wu, Wen Jiang, and Xiangyu Zhao. (2026). ARCHER: Shooting Straight in Multimodal E-Commerce Search with Progressive Alignment. In *Proceedings of the Web Conference 2026 (WWW Industry Track)* (**CCF-A**). *Deployed in real-world scenarios at Alibaba.*
+[C33] **Maolin Wang**, Lang Fu, Jun Chu, Kai Guo, Chenjie Qin, Xinxin Wang, Siyu Wu, Wen Jiang, and Xiangyu Zhao. (2026). ARCHER: Shooting Straight in Multimodal E-Commerce Search with Progressive Alignment. In *Proceedings of the Web Conference 2026 (WWW Industry Track)* (**CCF-A**). *Deployed in real-world scenarios (https://www.alibaba.com/) at Alibaba.*
 
 [C32] **Maolin Wang**, Tongshu Bian, Ziyan Wang, Xiaotong Jiang, Binhao Wang, Derong Xu, Wanyu Wang, Ruocheng Guo, and Xiangyu Zhao. (2026). Global Semantic Alignment with LLMs for Long-Tail Sequential Recommendation. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**).
 
