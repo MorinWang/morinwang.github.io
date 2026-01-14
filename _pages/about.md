@@ -23,7 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
-- *2026.01*:  🎉🎉 Our five papers have been accepted by WWW 2025. I'd especially like to mention my representative work among them: ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment. This paper addresses key challenges in multimodal search and proposes novel solutions that significantly improve search accuracy in e-commerce scenarios.
+- *2026.01*:  🎉🎉 Our six papers have been accepted by WWW 2026. I'd especially like to mention my representative work among them: ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment. This paper addresses key challenges in multimodal search and proposes novel solutions that significantly improve search accuracy in e-commerce scenarios.
 - *2025.12*: 🎉🎉  I'm delighted that one of my previously supervised master students at CityU, Junjie Liu, secured his job at Huawei. I truly miss the days we spent discussing multimodal fake news detection, and I hope our paper will be published soon.
 - *2025.12*: 🎉🎉 I am honored to receive an invitation from Prof. Qibin Zhao and Dr. Chao Li to present an invited talk on 'Modern Model Compression Techniques' at RIKEN Center for Advanced Intelligence Project (AIP).
 - *2025.11*:  🎉🎉 Our paper, *Renormalization Group Guided Tensor Network Structure Search*, has been accepted by AAAI 2026!
