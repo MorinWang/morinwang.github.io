@@ -23,7 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
-- *2025.12*:  🎉🎉 Our paper, *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*, has been accepted by ACM Computing Surveys (IF=	26.3)!
+- *2026.01*:  🎉🎉 Our five papers have been accepted by WWW 2025. I'd especially like to mention my representative work among them: ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment. This paper addresses key challenges in multimodal search and proposes novel solutions that significantly improve search accuracy in e-commerce scenarios.
 - *2025.12*: 🎉🎉  I'm delighted that one of my previously supervised master students at CityU, Junjie Liu, secured his job at Huawei. I truly miss the days we spent discussing multimodal fake news detection, and I hope our paper will be published soon.
 - *2025.12*: 🎉🎉 I am honored to receive an invitation from Prof. Qibin Zhao and Dr. Chao Li to present an invited talk on 'Modern Model Compression Techniques' at RIKEN Center for Advanced Intelligence Project (AIP).
 - *2025.11*:  🎉🎉 Our paper, *Renormalization Group Guided Tensor Network Structure Search*, has been accepted by AAAI 2026!
@@ -53,6 +53,14 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 # 📝 Publications 
 
 **Conference Papers**
+
+[C31] **Maolin Wang**, Lang Fu, Jun Chu, Kai Guo, Chenjie Qin, Xinxin Wang, Siyu Wu, Wen Jiang, and Xiangyu Zhao. (2026). ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment. In *Proceedings of the Web Conference 2026 (WWW Industry Track)* (**CCF-A**). *Deployed in real-world scenarios at Alibaba.*
+
+[C30] **Maolin Wang**, Tongshu Bian, Ziyan Wang, Xiaotong Jiang, Binhao Wang, Derong Xu, Wanyu Wang, Ruocheng Guo, and Xiangyu Zhao. (2026). Global Semantic Alignment with LLMs for Long-Tail Sequential Recommendation. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**).
+
+[C29] **Maolin Wang**, Beining Bao, Hongyu Chen, Zichun Liu, Lang Fu, Jun Chu, Langzhang Liang, and Zenglin Xu. (2026). GRAND: A Robust Diffusion Framework for Multi-Granularity Graph Anomaly Detection in Web Platforms. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**).
+
+[C28] Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, **Maolin Wang**†, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, and Xiangyu Zhao. (2026). PromptX: A Cognitive Agent Platform with Long-term Memory. In Proceedings of the Web Conference 2026 (WWW) Demos Track (CCF-A). † denotes the **corresponding author** [[GitHub 3.4k⭐](https://github.com/Deepractice/PromptX)].
 
 [C27] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[**Best Paper Award Runner Up** at KDD2025]</span>. *Deployed in 10+ real-world scenarios at Ant Group and Alipay.*
 
