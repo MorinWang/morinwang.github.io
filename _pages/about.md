@@ -23,6 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
+- *2026.01*:  🎉🎉 Our paper *SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization* has been accepted by ICLR 2026.
 - *2026.01*:  🎉🎉 Our six papers have been accepted by WWW 2026. I'd especially like to mention my representative work among them: *ARCHER: Shooting Straight in Multimodal E-Commerce Search with Progressive Alignment*. This paper addresses key challenges in multimodal search and proposes novel solutions that significantly improve search accuracy in e-commerce scenarios at Alibaba.
 - *2025.12*: 🎉🎉  I'm delighted that one of my previously supervised master students at CityU, Junjie Liu, secured his job at Huawei. I truly miss the days we spent discussing multimodal fake news detection, and I hope our paper will be published soon.
 - *2025.12*: 🎉🎉 I am honored to receive an invitation from Prof. Qibin Zhao and Dr. Chao Li to present an invited talk on 'Modern Model Compression Techniques' at RIKEN Center for Advanced Intelligence Project (AIP).
@@ -54,7 +55,9 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 **Conference Papers**
 
-[C33] **Maolin Wang**, Lang Fu, Jun Chu, Kai Guo, Chenjie Qin, Xinxin Wang, Siyu Wu, Wen Jiang, and Xiangyu Zhao. (2026). ARCHER: Shooting Straight in Multimodal E-Commerce Search with Progressive Alignment. In *Proceedings of the Web Conference 2026 (WWW Industry Track)* (**CCF-A**). *Deployed in real-world scenarios (https://www.alibaba.com/) at Alibaba.*
+[C34] **Maolin Wang**, Zhiqi Li, Binhao Wang, Xuhui Chen, Tianshuo Wei, Wanyu Wang, Shikai Fang, Ruocheng Guo, Zenglin Xu, and Xiangyu Zhao. (2026). SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization. In *International Conference on Learning Representations (ICLR)*.
+
+[C33] **Maolin Wang**, Lang Fu, Jun Chu, Kai Guo, Chenjie Qin, Xinxin Wang, Siyu Wu, Wen Jiang, and Xiangyu Zhao. (2026). ARCHER: Shooting Straight in Multimodal E-Commerce Search with Progressive Alignment. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**). *Deployed in real-world scenarios (https://www.alibaba.com/) at Alibaba.*
 
 [C32] **Maolin Wang**, Tongshu Bian, Ziyan Wang, Xiaotong Jiang, Binhao Wang, Derong Xu, Wanyu Wang, Ruocheng Guo, and Xiangyu Zhao. (2026). Global Semantic Alignment with LLMs for Long-Tail Sequential Recommendation. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**).
 
