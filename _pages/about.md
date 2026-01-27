@@ -65,7 +65,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C30] Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, **Maolin Wang**, Yichao Wang, Yong Liu and Xiangyu Zhao. (2025). To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention. In *Proceedings of the Web Conference 2025 (WWW) (**CCF-A**)*.
 
-[C29] Yejing Wang, Shengyu Zhou, Jinyu Lu, Ziwei Liu, Langming Liu, **Maolin Wang**, Wenlin Zhang, Feng Li, Wenbo Su, Pengjie Wang, Jian Xu and Xiangyu Zhao. (2025). NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations. In *Proceedings of the Web Conference 2026 (WWW Industry Track)* (**CCF-A**). *Deployed in real-world scenarios at Alibaba.*
+[C29] Yejing Wang, Shengyu Zhou, Jinyu Lu, Ziwei Liu, Langming Liu, **Maolin Wang**, Wenlin Zhang, Feng Li, Wenbo Su, Pengjie Wang, Jian Xu and Xiangyu Zhao. (2025). NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations. In *Proceedings of the Web Conference 2026 (WWW Industry Track)* (**CCF-A**). *Deployed in real-world scenarios (https://www.taobao.com/) at Alibaba.*
 
 [C28] Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, **Maolin Wang**†, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, and Xiangyu Zhao. (2026). PromptX: A Cognitive Agent Platform with Long-term Memory. In Proceedings of the Web Conference 2026 (WWW) Demos Track (CCF-A). † denotes the **corresponding author** [[GitHub 3.4k⭐](https://github.com/Deepractice/PromptX)].
 
