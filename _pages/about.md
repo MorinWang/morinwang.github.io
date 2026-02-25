@@ -157,21 +157,33 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 - *2014.09 - 2018.06*, B.E. in Computer Science (Yingcai Honors College), University of Electronic Science and Technology of China, Chengdu, China
    Supervisor: **Prof. Zenglin Xu**
 
+
 # 💬 Services
-- *2024.04*, **Session Chair**, The Web Conference (WWW)
-  
-   Chair of "Specialized Innovations in Recommender Systems" and "User Modeling for Recommenders" sessions
-- *2024-2025*, Program Committee Member and Conference Reviewer,
 
-  **Senior PC Member**: CIKM 2025 (Short Paper Track)
+* *2024.04*, **Session Chair**, The Web Conference (WWW, CCF-A)
+  Chair of *“Specialized Innovations in Recommender Systems”* and *“User Modeling for Recommenders”* sessions
 
-   **PC Member**: WWW 2025 (Demo Track), CIKM 2024, PAKDD 2025, CIKM 2025, GENNEXT@SIGIR’25
-  
-   **Reviewer**: NeurIPS 2024, KDD 2025, ICLR 2025, AISTATS 2025, ICML 2025, IEEE DSAA 2025, SIGIR 2025, NeurIPS 2025, ACMMM 2025
-  
-- *2020-2025*, **Journal Reviewer**,
-  
-   IEEE TNNLS, IEEE Trans. on Big Data, Neural Networks, Neurocomputing, ACM TKDD, IEEE TKDE, IEEE JSAC, Scientific Reports 
+---
+
+* *2024–2026*, **Program Committee Member & Reviewer**
+
+  **Area Chair**:
+  KDD 2026 (Feb & Aug Rounds), ACL 2026, PAKDD 2026,
+  ICLR 2026 Workshop on DeLTa, CIKM 2025 (Short Paper Track)
+
+  **PC Member and  Reviewer**:
+  WWW 2025 (Demo Track), CIKM 2024, PAKDD 2024, PAKDD 2025,
+  ICLR 2026, AISTATS 2026, WWW 2026,  NeurIPS 2024, NeurIPS 2025,
+  KDD 2025, ICLR 2025, ICML 2025, AISTATS 2025,
+  SIGIR 2025, IEEE DSAA 2025
+
+---
+
+* *2020–2026*, **Journal Reviewer**
+
+  IEEE TNNLS; IEEE Transactions on Big Data; Neural Networks; Neurocomputing;
+  ACM TKDD; IEEE JSAC; Scientific Reports;
+  Digital Signal Processing; Applied Soft Computing
 
 # 👨‍🏫 Mentorships
 
