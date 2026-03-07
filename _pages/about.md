@@ -55,7 +55,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 **Conference Papers**
 
-[C34] **Maolin Wang**, Zhiqi Li, Binhao Wang, Xuhui Chen, Tianshuo Wei, Wanyu Wang, Shikai Fang, Ruocheng Guo, Zenglin Xu, and Xiangyu Zhao. (2026). SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization. In *International Conference on Learning Representations 2026 (ICLR)*.
+[C34] **Maolin Wang**, Zhiqi Li, Binhao Wang, Xuhui Chen, Tianshuo Wei, Wanyu Wang, Shikai Fang, Ruocheng Guo, Zenglin Xu, and Xiangyu Zhao. (2026). SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization. In *International Conference on Learning Representations 2026 (ICLR)* (**CCF-A**).
 
 [C33] **Maolin Wang**, Lang Fu, Jun Chu, Kai Guo, Chenjie Qin, Xinxin Wang, Siyu Wu, Wen Jiang, and Xiangyu Zhao. (2026). ARCHER: Shooting Straight in Multimodal E-Commerce Search with Progressive Alignment. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**). *Deployed in real-world scenarios (https://www.alibaba.com/) at Alibaba.*
 
@@ -93,7 +93,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C16] Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, **Maolin Wang**, Pengyue Jia, Chong Chen, Wei Huang, Feng Tian. (2025). *Large language model enhanced recommender systems: Taxonomy, Trend, Application, and Future*. In Survey & Tutorial Track at *SIGKDD Conference on Knowledge Discovery and Data Mining (**CCF-A**)*.
 
-[C15] **Maolin Wang**, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. In *International Joint Conference on Artificial Intelligence (IJCAI) (**CCF-A**)*.
+[C15] **Maolin Wang**, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. In *International Joint Conference on Artificial Intelligence (IJCAI) (**CCF-B**)*.
 
 [C14] **Maolin Wang**, Sheng Zhang, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (**CCF-A**)*.
 
