@@ -23,6 +23,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
+- *2026.03*:  🎉🎉 Our paper *Embedding in recommender systems: A survey* has been accepted by TOIS.
+- *2026.02*:  🎉🎉 Our Tutorial about Function Calling in Large Language Models has been accepted by PAKDD 2026.
 - *2026.01*:  🎉🎉 Our paper *SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization* has been accepted by ICLR 2026.
 - *2026.01*:  🎉🎉 Our six papers have been accepted by WWW 2026. I'd especially like to mention my representative work among them: *ARCHER: Shooting Straight in Multimodal E-Commerce Search with Progressive Alignment*. This paper addresses key challenges in multimodal search and proposes novel solutions that significantly improve search accuracy in e-commerce scenarios at Alibaba.
 - *2025.12*: 🎉🎉  I'm delighted that one of my previously supervised master students at CityU, Junjie Liu, secured his job at Huawei. I truly miss the days we spent discussing multimodal fake news detection, and I hope our paper will be published soon.
@@ -127,10 +129,11 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 **Journal Papers**
 
+[J4] **Maolin Wang**, Xinjian Zhao, Wanyu Wang, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao. *Embedding in recommender systems: A survey*. In ACM Transactions on Information Systems (TOIS) (**Impact Factor: 9.1**) (**CCF-A**).
+
 [J3]  **Maolin Wang**, Yingyi Zhang, Bowen Yu, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*. In ACM Computing Surveys (**Impact Factor: 26.3**) (**SCI-Q1**).
 
 [J2] Xiaopeng LI, **Maolin Wang**, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
-
 
 [J1] Yu Pan, **Maolin Wang**, and Zenglin Xu. (2021). *TedNet: A Pytorch Toolkit For Tensor Decomposition Networks*. In *Neurocomputing (**SCI-Q2**) **[100+ stars in Github]***.
 
