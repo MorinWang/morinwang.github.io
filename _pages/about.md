@@ -69,7 +69,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C29] Yejing Wang, Shengyu Zhou, Jinyu Lu, Ziwei Liu, Langming Liu, **Maolin Wang**, Wenlin Zhang, Feng Li, Wenbo Su, Pengjie Wang, Jian Xu and Xiangyu Zhao. (2025). NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**). *Deployed in real-world scenarios (https://www.taobao.com/) at Alibaba.*
 
-[C28] Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, **Maolin Wang**†, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, and Xiangyu Zhao. (2026). PromptX: A Cognitive Agent Platform with Long-term Memory. In * the Web Conference 2026 (WWW) Demos Track *. † denotes the **corresponding author** [[GitHub 3.4k⭐](https://github.com/Deepractice/PromptX)].
+[C28] Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, **Maolin Wang**†, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, and Xiangyu Zhao. (2026). PromptX: A Cognitive Agent Platform with Long-term Memory. In *the Web Conference 2026 (WWW) Demos Track*. † denotes the **corresponding author** [[GitHub 3.4k⭐](https://github.com/Deepractice/PromptX)].
 
 [C27] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[**Best Paper Award Runner Up** at KDD2025]</span>. *Deployed in 10+ real-world scenarios at Ant Group and Alipay.*
 
@@ -81,7 +81,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C23] Yuhao Wang, Junwei Pan, Xinhang Li, **Maolin Wang**, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang, Xiangyu Zhao. (2025). *Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs*. In *ACM International Conference on Information and Knowledge Management (CIKM) (**CCF-B**)*.
 
-[C22] Binhao Wang, Yutian Xiao, **Maolin Wang**, Zhiqi Li, Tianshuo Wei, Ruocheng Guo, Xiangyu Zhao. (2025). SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation. In ACM International Conference on Information and Knowledge Management (CIKM) (CCF-B).
+[C22] Binhao Wang, Yutian Xiao, **Maolin Wang**, Zhiqi Li, Tianshuo Wei, Ruocheng Guo, Xiangyu Zhao. (2025). SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation. In *ACM International Conference on Information and Knowledge Management (CIKM) (CCF-B)*.
 
 [C21] Jingyu Peng, **Maolin Wang**, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu. (2025). *Stepwise Reasoning Error Disruption Attack of LLMs*. In *Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*. 
 
