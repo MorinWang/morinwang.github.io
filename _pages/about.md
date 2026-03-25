@@ -222,7 +222,11 @@ AML Lab, City University of Hong Kong (2022-2025)
 - Sheng Zhang (2023.09-2024.09) **Outstanding Academic Performance Award**, **Outstanding Research Project Award**, current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @2nd)
 - Jie Wang (2022.09-2023.09) **Outstanding Dissertation Award**, current position - HK AIFT (MAPLE🍁 @1st)
 - Tong Wu (2022.09-2023.09) Current position - Kuaishou (MAPLE🍁 @1st)
-
+  
+**Remote Research Assistants**
+*Co-supervision with Prof. Lei Sha at BUAA*
+- Zhuang Liu (2025.12-)  Master student at BUAA and Research Intern at Baidu (MAPLE🍁 @8th)
+  
 **Ant Group Junior Internship Mentees**
 *Co-supervision with Dr. Chenyi Zhuang*(2024-2025)
 - Bingguang Hao (2025.06-2025.12) Master student at UESTC (MAPLE🍁 @6th)
