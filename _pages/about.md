@@ -196,6 +196,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 Hong Kong Institute of AI for Science, City University of Hong Kong (2025-Now)
 - Hongyu Chen (2025.09-) Research Assistant, HKAI-Sci (MAPLE🍁 @7th) 
 - Beining Bao (2025.09-) Research Assistant, HKAI-Sci (MAPLE🍁 @7th) 
+- Bingkun Zhao (2025.11-) (With Yao Wang) Research Assistant, HKAI-Sci (MAPLE🍁 @7th)
   
 **Cityu HK Master Students Under My Co-Supervision**  
 *Co-supervision with Prof. Xiangyu Zhao*  
