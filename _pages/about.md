@@ -23,6 +23,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
+
+- *2026.04*:  🎉🎉 Our two papers have been accepted by SIGIR 2026.
 - *2026.03*:  🎉🎉 Our paper *Embedding in recommender systems: A survey* has been accepted by TOIS.
 - *2026.02*:  🎉🎉 Our Tutorial about Function Calling in Large Language Models has been accepted by PAKDD 2026.
 - *2026.01*:  🎉🎉 Our paper *SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization* has been accepted by ICLR 2026.
@@ -56,6 +58,9 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 # 📝 Publications 
 
 **Conference Papers**
+[C36] **Maolin Wang**, Dongze Wu, Jianing Zhou, Hongyu Chen, Beining Bao, Yu Jiang, Chenbin Zhang, Chang Wang, Jian Liu, and Lei Sha. Rethinking Semantic–Collaborative Integration: Why Alignment Is Not Enough. In *Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)* (**CCF-A**).
+
+[C35] Derong Xu, Yanxin Chen, Wanyu Wang, Pengyue Jia, Chao Zhang, **Maolin Wang**, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, and Xiangyu Zhao. (2026). ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory. In *Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)* (**CCF-A**).
 
 [C34] **Maolin Wang**, Zhiqi Li, Binhao Wang, Xuhui Chen, Tianshuo Wei, Wanyu Wang, Shikai Fang, Ruocheng Guo, Zenglin Xu, and Xiangyu Zhao. (2026). SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization. In *International Conference on Learning Representations 2026 (ICLR)* (**CCF-A**).
 
