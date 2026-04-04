@@ -233,6 +233,8 @@ AML Lab, City University of Hong Kong (2022-2025)
 **Remote Research Assistants**
 *Co-supervision with Prof. Lei Sha at BUAA*
 - Zhuang Liu (2025.12-)  Master student at BUAA and Research Intern at Baidu (MAPLE🍁 @8th)
+- Dongze Wu (2025.12-)  Bachelor student at BUAA (MAPLE🍁 @8th)
+- Jianing Zhou (2025.12-) Bachelor student at BUAA (MAPLE🍁 @8th)
   
 **Ant Group Junior Internship Mentees**
 *Co-supervision with Dr. Chenyi Zhuang*(2024-2025)
