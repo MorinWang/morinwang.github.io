@@ -83,19 +83,19 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C31] **Maolin Wang**, Beining Bao, Hongyu Chen, Zichun Liu, Lang Fu, Jun Chu, Langzhang Liang, and Zenglin Xu. (2026). GRAND: A Robust Diffusion Framework for Multi-Granularity Graph Anomaly Detection in Web Platforms. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**).
 
-### 2025
-
 [C30] Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, **Maolin Wang**, Yichao Wang, Yong Liu and Xiangyu Zhao. (2025). To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention. In *Proceedings of the Web Conference 2026 (WWW) (**CCF-A**)*.
 
 [C29] Yejing Wang, Shengyu Zhou, Jinyu Lu, Ziwei Liu, Langming Liu, **Maolin Wang**, Wenlin Zhang, Feng Li, Wenbo Su, Pengjie Wang, Jian Xu and Xiangyu Zhao. (2025). NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**). *Deployed in real-world scenarios (https://www.taobao.com/) at Alibaba.*
 
 [C28] Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, **Maolin Wang**†, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, and Xiangyu Zhao. (2026). PromptX: A Cognitive Agent Platform with Long-term Memory. In *the Web Conference 2026 (WWW) Demos Track*. † denotes the **corresponding author** [[GitHub 3.4k⭐](https://github.com/Deepractice/PromptX)].
 
-[C27] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[**Best Paper Award Runner Up** at KDD2025]</span>. *Deployed in 10+ real-world scenarios at Ant Group and Alipay.*
+[C27] **Maolin Wang**, Bowen Yu, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2026). Renormalization Group Guided Tensor Network Structure Search. In *Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
 
-[C26] **Maolin Wang**, Bowen Yu, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2026). Renormalization Group Guided Tensor Network Structure Search. In *Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
+### 2025
 
-[C26] Xiao Han, Zimo Zhao, Wanyu Wang, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning. In *Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS) (**CCF-A**)*.
+[C26] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[**Best Paper Award Runner Up** at KDD2025]</span>. *Deployed in 10+ real-world scenarios at Ant Group and Alipay.*
+
+[C25] Xiao Han, Zimo Zhao, Wanyu Wang, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning. In *Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS) (**CCF-A**)*.
 
 [C24] Tongzhou Wu, Yuhao Wang, **Maolin Wang**, Chi Zhang, Xiangyu Zhao. (2025). *Empowering Denoising Sequential Recommendation with Large Language Model Embeddings*. In *ACM International Conference on Information and Knowledge Management (CIKM) (**CCF-B**)*.
 
