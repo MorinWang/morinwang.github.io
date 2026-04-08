@@ -59,6 +59,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 **Conference Papers**
 
+### 2026
+
 [C41] Yuqing Fu, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, Xiao Han, **Maolin Wang**, Guoshuai Zhao, Yi Chang, Xiangyu Zhao. (2026). SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
 
 [C40] Bingguang Hao, Zengzhuang Xu, **Maolin Wang**, Yuntao Wen, Yicheng Chen, Cunyin Peng, Long Chen, Xiangyu Zhao, Jinjie Gu, Chenyi Zhuang, Ji Zhang. (2026). BalanceSFT: Improving LLM Function Calling with Balanced Training Signals and Data Hardness. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
@@ -80,6 +82,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 [C32] **Maolin Wang**, Tongshu Bian, Ziyan Wang, Xiaotong Jiang, Binhao Wang, Derong Xu, Wanyu Wang, Ruocheng Guo, and Xiangyu Zhao. (2026). Global Semantic Alignment with LLMs for Long-Tail Sequential Recommendation. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**).
 
 [C31] **Maolin Wang**, Beining Bao, Hongyu Chen, Zichun Liu, Lang Fu, Jun Chu, Langzhang Liang, and Zenglin Xu. (2026). GRAND: A Robust Diffusion Framework for Multi-Granularity Graph Anomaly Detection in Web Platforms. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**).
+
+### 2025
 
 [C30] Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, **Maolin Wang**, Yichao Wang, Yong Liu and Xiangyu Zhao. (2025). To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention. In *Proceedings of the Web Conference 2026 (WWW) (**CCF-A**)*.
 
@@ -126,16 +130,21 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C9] Yejing Wang, Chi Zhang, Xiangyu Zhao, Qidong Liu, **Maolin Wang**, Xuetao Wei, Zitao Liu, Xing Shi, Yang Xudong, Ling Zhong, Wei Lin. (2025). *Behavior Modeling Space Reconstruction for E-Commerce Search*. In *The Web Conference (WWW) (**CCF-A**) **[Oral]***.
 
+### 2024
+
 [C8] **Maolin Wang**, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In Industry Track at *The Web Conference (WWW)* **[Oral]** <span style="color: red">[Deployed in 5+ real-world scenarios at Ant Group and Alipay]</span>.
 
 [C7] **Maolin Wang**, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2024). *Tensorized Hypergraph Neural Networks*. In *SIAM International Conference on Data Mining (SDM) (**CCF-B**)*.
 
 [C6] Sheng Zhang*, **Maolin Wang***, Yao Zhao, Chenyi Zhuang, Ruocheng Guo, Xiangyu Zhao et al. (2024). *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems*. In *ACM Conference on Recommender Systems (RecSys) (**CCF-B**)*.
 
+### 2023
 
 [C5] **Maolin Wang**, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2023). *Federated Knowledge Graph Completion via Latent Embedding Sharing*. In *IEEE International Conference on Data Mining (ICDM) (**CCF-B**)*.
 
 [C4] Kesen Zhao, Lixin Zou, Xiangyu Zhao, **Maolin Wang**, Dawei Yin. (2023). *User Retention-oriented Recommendation with Decision Transformer*. In *The Web Conference (WWW) (**CCF-A**)*.
+
+### Before 2023
 
 [C3] **Maolin Wang**, Zeyong Su, Xu Luo, Yu Pan, Shenggen Zheng and Zenglin Xu. (2020). *Concatenated Tensor Networks for Deep Multi-Task Learning*. In *International Conference on Neural Information Processing (ICONIP) (**CCF-C**)*.
 
