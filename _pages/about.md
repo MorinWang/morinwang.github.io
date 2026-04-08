@@ -59,6 +59,16 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 **Conference Papers**
 
+[C41] Yuqing Fu, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, Xiao Han, **Maolin Wang**, Guoshuai Zhao, Yi Chang, Xiangyu Zhao. (2026). SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
+
+[C40] Bingguang Hao, Zengzhuang Xu, **Maolin Wang**, Yuntao Wen, Yicheng Chen, Cunyin Peng, Long Chen, Xiangyu Zhao, Jinjie Gu, Chenyi Zhuang, Ji Zhang. (2026). BalanceSFT: Improving LLM Function Calling with Balanced Training Signals and Data Hardness. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
+
+[C39] Jingyu Peng, **Maolin Wang**, Nan Wang, Jiatong Li, Yuchen Li, Yuyang Ye, Wanyu Wang, Pengyue Jia, Kai Zhang, Xiangyu Zhao. (2026). Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
+
+[C38] Xiaopeng Li, Yuanjin Zheng, Wanyu Wang, Wenlin Zhang, Pengyue Jia, Yingyi Zhang, Haiying He, Mengyang Ma, Yiqi Wang, **Maolin Wang**, Xuetao Wei, Xiangyu Zhao. (2026). MTA: A Merge-then-Adapt Framework for Personalized Large Language Models. In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*.
+
+[C37] Sheng Zhang, Junyi Li, Yingyi Zhang, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wenlin Zhang, **Maolin Wang**, Yong Liu, Xiangyu Zhao. (2026). MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search. In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*.
+
 [C36] **Maolin Wang**, Dongze Wu, Jianing Zhou, Hongyu Chen, Beining Bao, Yu Jiang, Chenbin Zhang, Chang Wang, Jian Liu, and Lei Sha. (2026). Rethinking Semantic–Collaborative Integration: Why Alignment Is Not Enough. In *Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)* (**CCF-A**).
 
 [C35] Derong Xu, Yanxin Chen, Wanyu Wang, Pengyue Jia, Chao Zhang, **Maolin Wang**, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, and Xiangyu Zhao. (2026). ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory. In *Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)* (**CCF-A**).
