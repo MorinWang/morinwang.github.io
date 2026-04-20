@@ -61,7 +61,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 ### 2026
 
-[C41] Hongyu Chen, Beining Bao, Zichun Liu, Tianshuo Wei, **Maolin Wang**, Xiaopeng Li, HingCheung So. (2026). Deep Tensor Factorization for Modeling Non-Uniform Temporal Dynamics with Adaptive Temporal Smoothing. In 2026 IEEE 14th Sensor Array and Multichannel Signal Processing Workshop (SAM).
+[C42] Hongyu Chen, Beining Bao, Zichun Liu, Tianshuo Wei, **Maolin Wang**, Xiaopeng Li, HingCheung So. (2026). Deep Tensor Factorization for Modeling Non-Uniform Temporal Dynamics with Adaptive Temporal Smoothing. In 2026 IEEE 14th Sensor Array and Multichannel Signal Processing Workshop (SAM).
 
 
 [C41] Yuqing Fu, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, Xiao Han, **Maolin Wang**, Guoshuai Zhao, Yi Chang, Xiangyu Zhao. (2026). SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
