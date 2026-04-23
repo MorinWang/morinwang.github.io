@@ -264,7 +264,9 @@ AML Lab, City University of Hong Kong (2022-2025)
 *Co-supervision with Dr. Chenyi Zhuang*(2024-2025)
 - Bingguang Hao (2025.06-2025.12) Master student at UESTC (MAPLE🍁 @6th)
 
-
+**Remote Research Assistants**
+- Chang Wang (2024.06-) (MAPLE🍁 @3th)
+  
 # 💻 Internships
 - *2024.06 - 2025.03*, Research Intern, Alipay Department, Ant Group, Hangzhou, China
    - Research on Large Language Models and function calling techniques, focusing on intelligent agent systems development
