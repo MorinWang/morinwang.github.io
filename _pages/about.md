@@ -23,7 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
-- *2026.05*: 🎉🎉 I'm delighted that my previously supervised master students at CityU, Hongyu Chen and Tianshuo Wei, have received PhD offers from CityU. Congratulations!
+- *2026.05*: 🎉🎉 I'm delighted that my previously supervised master student at CityU Tianshuo Wei, have received PhD offers from CityU. Congratulations!
 - *2026.05*: 🎉🎉 Our paper *T-GINEE: A Tensor-Based Multi-Graph Representation Learning* has been accepted by ICML 2025.
 - *2026.04*:  🎉🎉 Our paper *Deep Tensor Factorization for Modeling Non-Uniform Temporal Dynamics with Adaptive Temporal Smoothing* has been accepted by IEEE SAM 2026.
 - *2026.04*:  🎉🎉 Our two papers have been accepted by SIGIR 2026.
