@@ -62,7 +62,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 ### 2026
 
-[C43] **Maolin Wang**, Xuhui Chen, ZiTing Mai, Zhiqi Li, Tianshuo Wei, Yutian Xiao, Wenlin Zhang, Wanyu Wang, Ruocheng Guo, Haoxuan Li, Zenglin Xu, and Xiangyu Zhao. (2025). T-GINEE: A Tensor-Based Multi-Graph Representation Learning. In *Proceedings of the International Conference on Machine Learning (ICML)* (**CCF-A**).
+[C43] **Maolin Wang**, Xuhui Chen, Ziting Mai, Zhiqi Li, Tianshuo Wei, Yutian Xiao, Wenlin Zhang, Wanyu Wang, Ruocheng Guo, Haoxuan Li, Zenglin Xu, and Xiangyu Zhao. (2025). T-GINEE: A Tensor-Based Multi-Graph Representation Learning. In *Proceedings of the International Conference on Machine Learning (ICML)* (**CCF-A**).
 
 [C42] Hongyu Chen, Beining Bao, Zichun Liu, Tianshuo Wei, **Maolin Wang**, Xiaopeng Li, HingCheung So. (2026). Deep Tensor Factorization for Modeling Non-Uniform Temporal Dynamics with Adaptive Temporal Smoothing. In 2026 IEEE 14th Sensor Array and Multichannel Signal Processing Workshop (SAM).
 
