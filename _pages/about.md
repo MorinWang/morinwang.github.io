@@ -23,7 +23,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
-- *2026.04*:  🎉🎉 Our paper Deep Tensor Factorization for Modeling Non-Uniform Temporal Dynamics with Adaptive Temporal Smoothing has been accepted by IEEE SAM 2026.
+- *2025.05*: 🎉🎉 Our paper *T-GINEE: A Tensor-Based Multi-Graph Representation Learning* has been accepted by ICML 2025.
+- *2026.04*:  🎉🎉 Our paper *Deep Tensor Factorization for Modeling Non-Uniform Temporal Dynamics with Adaptive Temporal Smoothing* has been accepted by IEEE SAM 2026.
 - *2026.04*:  🎉🎉 Our two papers have been accepted by SIGIR 2026.
 - *2026.03*:  🎉🎉 Our paper *Embedding in recommender systems: A survey* has been accepted by TOIS.
 - *2026.02*:  🎉🎉 Our Tutorial about Function Calling in Large Language Models has been accepted by PAKDD 2026.
@@ -61,8 +62,9 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 ### 2026
 
-[C42] Hongyu Chen, Beining Bao, Zichun Liu, Tianshuo Wei, **Maolin Wang**, Xiaopeng Li, HingCheung So. (2026). Deep Tensor Factorization for Modeling Non-Uniform Temporal Dynamics with Adaptive Temporal Smoothing. In 2026 IEEE 14th Sensor Array and Multichannel Signal Processing Workshop (SAM).
+[C43] **Maolin Wang**, Xuhui Chen, ZiTing Mai, Zhiqi Li, Tianshuo Wei, Yutian Xiao, Wenlin Zhang, Wanyu Wang, Ruocheng Guo, Haoxuan Li, Zenglin Xu, and Xiangyu Zhao. (2025). T-GINEE: A Tensor-Based Multi-Graph Representation Learning. In *Proceedings of the International Conference on Machine Learning (ICML)* (**CCF-A**).
 
+[C42] Hongyu Chen, Beining Bao, Zichun Liu, Tianshuo Wei, **Maolin Wang**, Xiaopeng Li, HingCheung So. (2026). Deep Tensor Factorization for Modeling Non-Uniform Temporal Dynamics with Adaptive Temporal Smoothing. In 2026 IEEE 14th Sensor Array and Multichannel Signal Processing Workshop (SAM).
 
 [C41] Yuqing Fu, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, Xiao Han, **Maolin Wang**, Guoshuai Zhao, Yi Chang, Xiangyu Zhao. (2026). SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
 
