@@ -23,7 +23,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
-- *2025.05*: 🎉🎉 Our paper *T-GINEE: A Tensor-Based Multi-Graph Representation Learning* has been accepted by ICML 2025.
+- *2026.05*: 🎉🎉 I'm delighted that my previously supervised master students at CityU, Hongyu Chen and Tianshuo Wei, have received PhD offers from CityU. Congratulations!
+- *2026.05*: 🎉🎉 Our paper *T-GINEE: A Tensor-Based Multi-Graph Representation Learning* has been accepted by ICML 2025.
 - *2026.04*:  🎉🎉 Our paper *Deep Tensor Factorization for Modeling Non-Uniform Temporal Dynamics with Adaptive Temporal Smoothing* has been accepted by IEEE SAM 2026.
 - *2026.04*:  🎉🎉 Our two papers have been accepted by SIGIR 2026.
 - *2026.03*:  🎉🎉 Our paper *Embedding in recommender systems: A survey* has been accepted by TOIS.
@@ -224,7 +225,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 **Cityu HK Master Students Under My Supervision**  
 Hong Kong Institute of AI for Science, City University of Hong Kong (2025-Now)
-- Hongyu Chen (2025.09-) Research Assistant, HKAI-Sci (MAPLE🍁 @7th) 
+- Hongyu Chen (2025.09-) Research Assistant, HKAI-Sci (MAPLE🍁 @7th) Incoming PhD Student at BIOS, Cityu. (Supervised by Prof. Jun Yan) 
 - Beining Bao (2025.09-) Research Assistant, HKAI-Sci (MAPLE🍁 @7th) 
 - Bingkun Zhao (2025.11-) (With Yao Wang) Research Assistant, HKAI-Sci (MAPLE🍁 @7th)
   
@@ -248,7 +249,7 @@ AML Lab, City University of Hong Kong (2022-2025)
 - Xuhui Chen (2024.12-2025.09) With Wenlin Zhang, **Outstanding Performance Award** and **Outstanding Academic Performance Award**, current position - PhD student (Supervised by Prof. Baotian Hu), Harbin Institute of Technology (Shenzhen) (MAPLE🍁 @4th)
 - Binhao Wang (2024.12-2025.09) With Zichuan Fu, current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @4th)
 - Zhiqi Li (2024.12-2025.09) current position - Ongoing PhD student, SMILE Lab (Supervised by Prof. Zenglin Xu), Fudan University  (MAPLE🍁 @4th)
-- Tianshuo Wei (2024.09-2025.09) **Outstanding Dissertation Award** and **Outstanding Performance Award**, current position - PhD Student, City University of Hong Kong (Supervised by Prof. Kaidi Xu) (MAPLE🍁 @3th)
+- Tianshuo Wei (2024.09-2025.09) **Outstanding Dissertation Award** and **Outstanding Performance Award**, current position - Incoming PhD Student, City University of Hong Kong (Supervised by Prof. Kaidi Xu) (MAPLE🍁 @3th)
 - Bowen Yu (2024.09-2025.09) Current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @3th)
 - Sheng Zhang (2023.09-2024.09) **Outstanding Academic Performance Award**, **Outstanding Research Project Award**, current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @2nd)
 - Jie Wang (2022.09-2023.09) **Outstanding Dissertation Award**, current position - HK AIFT (MAPLE🍁 @1st)
