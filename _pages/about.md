@@ -203,9 +203,9 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 * *2024–2026*, **Program Committee Member & Reviewer**
 
-  **Area Chair**:
+  **Area Chair/Senior PC Member**:
   KDD 2026 (Feb & Aug Rounds), ACL 2026, PAKDD 2026,
-  ICLR 2026 Workshop on DeLTa, CIKM 2025 (Short Paper Track)
+  ICLR 2026 Workshop on DeLTa, CIKM 2025 (Short Paper Track), CIKM 2026 (Full Paper Track)
 
   **PC Member and  Reviewer**:
   WWW 2025 (Demo Track), CIKM 2024, PAKDD 2024, PAKDD 2025,
