@@ -271,6 +271,7 @@ AML Lab, City University of Hong Kong (2022-2025)
 
 **Remote Research Assistants**
 - Chang Wang (2024.06-) (MAPLE🍁 @3th)
+- Baiyuan Qiu (2024.06-) (MAPLE🍁 @3th)
   
 # 💻 Internships
 - *2024.06 - 2025.03*, Research Intern, Alipay Department, Ant Group, Hangzhou, China
