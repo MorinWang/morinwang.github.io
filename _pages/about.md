@@ -225,12 +225,18 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 **MAPLE🍁** stands for **MA**chine intelligence and **P**robabilistic **LE**arning. I wish that, upon leaving my guidance, my mentored students will embark on futures as vibrant and remarkable as the autumn maple.
 
+**Cityu HK Master Students Under My Co-Supervision**  
+- Yuli Wang (2026.03-) (MAPLE🍁 @9th) 
+- Yu Wang (2025.12-) (MAPLE🍁 @8th)
+- Yao Zhang (2025.12-) (MAPLE🍁 @8th)
+- Jiaqi He (2025.12-) (MAPLE🍁 @8th) 
+
 **Cityu HK Master Students Under My Supervision**  
 Hong Kong Institute of AI for Science, City University of Hong Kong (2025-Now)
 - Hongyu Chen (2025.09-) Research Assistant, HKAI-Sci (MAPLE🍁 @7th) Incoming PhD Student at BIOS, Cityu. (Supervised by Prof. Jun Yan) 
 - Beining Bao (2025.09-) Research Assistant, HKAI-Sci (MAPLE🍁 @7th) 
 - Bingkun Zhao (2025.11-) (With Yao Wang) Research Assistant, HKAI-Sci (MAPLE🍁 @7th)
-  
+
 **Cityu HK Master Students Under My Co-Supervision**  
 *Co-supervision with Prof. Xiangyu Zhao*  
 AML Lab, City University of Hong Kong (2022-2025)
