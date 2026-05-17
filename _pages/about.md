@@ -63,19 +63,19 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 # 📝 Publications 
 
- * denotes equal contribution, $\dagger$ denotes coresponding authoe.
+ \* denotes equal contribution, $\dagger$ denotes coresponding authoe.
 
 **Journal Papers**
 
-[J6] Yupeng Xu*, Huixun Jia*, **Maolin Wang***, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, and Xiaodong Sun. (2025). Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System. NPJ Digital Medicine (**Impact Factor: 17.0**) (**JCR-Q1**).
+[J6] Yupeng Xu*, Huixun Jia*, **Maolin Wang\***, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, and Xiaodong Sun. (2025). Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System. NPJ Digital Medicine (**Impact Factor: 17.0**) (**JCR-Q1**).
 
 [J5]  Tianyi Xu, Tianshuo Wei, Yan Ge, Bo Peng, Yue Li, **Maolin Wang**, Peng Wen, Chao Yang, and Ye Wei. (2025). Sustainable Materials Design with Multi-modal Artificial Intelligence. In Advanced Science (**Impact Factor: 15.6**) (**JCR-Q1**).
 
-[J4] **Maolin Wang***, Xinjian Zhao*, Wanyu Wang*, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao. *Embedding in recommender systems: A survey*. In ACM Transactions on Information Systems (TOIS) (**Impact Factor: 9.1**) (**CCF-A**).
+[J4] **Maolin Wang\***, Xinjian Zhao*, Wanyu Wang*, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao. *Embedding in recommender systems: A survey*. In ACM Transactions on Information Systems (TOIS) (**Impact Factor: 9.1**) (**CCF-A**).
 
-[J3]  **Maolin Wang***, Yingyi Zhang*, Bowen Yu*, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*. In ACM Computing Surveys (**Impact Factor: 26.3**) (**JCR-Q1**).
+[J3]  **Maolin Wang\***, Yingyi Zhang\*, Bowen Yu\*, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*. In ACM Computing Surveys (**Impact Factor: 26.3**) (**JCR-Q1**).
 
-[J2] Xiaopeng LI*, **Maolin Wang***, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
+[J2] Xiaopeng LI\*, **Maolin Wang\***, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
 
 [J1] Yu Pan, **Maolin Wang**, and Zenglin Xu. (2021). *TedNet: A Pytorch Toolkit For Tensor Decomposition Networks*. In *Neurocomputing (**SCI-Q2**) **[100+ stars in Github]***.
 
