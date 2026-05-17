@@ -63,7 +63,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 # 📝 Publications 
 
- \* denotes equal contribution, † denotes coresponding authoe.
+ \* denotes equal contribution, † denotes coresponding author.
 
 **Journal Papers**
 
