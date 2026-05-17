@@ -82,7 +82,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 ### 2026
 [C45] **Maolin Wang**, Ziting Mai, Zichun Liu, Beining Bao, Hongyu Chen, Junjie Liu, Yunbo Zhang, Bingkun Zhao, Tianshuo Wei, Jian Liu, Chenbin Zhang, and Haoran Yang. (2026). A Serial Two-Stage Framework for Robust Multimodal Fake News Detection via Adaptive Reasoning. In *Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)* (**CCF-A**).
 
-[C44] Qi Qin, Yuzhao Zhang, Jia-Xing Han, **Maolin Wang**, Yu Su, Yifan Sun, and Peng Zhang. (2026). HIVE: Hierarchical Generation of Integrated and Varied Ensembles for Efficient Out-of-Distribution Generalization. In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (CCF-A).
+[C44] Qi Qin, Yuzhao Zhang, Jia-Xing Han, **Maolin Wang**, Yu Su, Yifan Sun, and Peng Zhang. (2026). HIVE: Hierarchical Generation of Integrated and Varied Ensembles for Efficient Out-of-Distribution Generalization. In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (CCF-A).  <span style="color: red">[Deployed in real-world scenarios at Ant Group]</span>.
+
 
 [C43] **Maolin Wang**, Ziting Mai, Xuhui Chen, Zhiqi Li, Tianshuo Wei, Yutian Xiao, Wenlin Zhang, Wanyu Wang, Ruocheng Guo, Haoxuan Li, Zenglin Xu, and Xiangyu Zhao. (2026). T-GINEE: A Tensor-Based Multi-Graph Representation Learning. In *Proceedings of the International Conference on Machine Learning (ICML)* (**CCF-A**).
 
