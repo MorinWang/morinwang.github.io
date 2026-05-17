@@ -63,7 +63,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 # 📝 Publications 
 
- \* denotes equal contribution, $\dagger$ denotes coresponding authoe.
+ \* denotes equal contribution, † denotes coresponding authoe.
 
 **Journal Papers**
 
@@ -117,13 +117,13 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C29] Yejing Wang, Shengyu Zhou, Jinyu Lu, Ziwei Liu, Langming Liu, **Maolin Wang**, Wenlin Zhang, Feng Li, Wenbo Su, Pengjie Wang, Jian Xu and Xiangyu Zhao. (2025). NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations. In *Proceedings of the Web Conference 2026 (WWW)* (**CCF-A**). *Deployed in real-world scenarios (https://www.taobao.com/) at Alibaba.*
 
-[C28] Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, **Maolin Wang**†, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, and Xiangyu Zhao. (2026). PromptX: A Cognitive Agent Platform with Long-term Memory. In *the Web Conference 2026 (WWW) Demos Track*. † denotes the **corresponding author** [[GitHub 3.4k⭐](https://github.com/Deepractice/PromptX)].
+[C28] Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, **Maolin Wang** †, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, and Xiangyu Zhao. (2026). PromptX: A Cognitive Agent Platform with Long-term Memory. In *the Web Conference 2026 (WWW) Demos Track*. [[GitHub 3.4k⭐](https://github.com/Deepractice/PromptX)].
 
 [C27] **Maolin Wang**, Bowen Yu, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2026). Renormalization Group Guided Tensor Network Structure Search. In *Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
 
 ### 2025
 
-[C26] ​​**Maolin Wang***, Jun Chu*, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[**Best Paper Award Runner Up** at KDD2025]</span>. *Deployed in 10+ real-world scenarios at Ant Group and Alipay.*
+[C26] ​​**Maolin Wang\***, Jun Chu\*, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[**Best Paper Award Runner Up** at KDD2025]</span>. *Deployed in 10+ real-world scenarios at Ant Group and Alipay.*
 
 [C25] Xiao Han, Zimo Zhao, Wanyu Wang, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning. In *Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS) (**CCF-A**)*.
 
@@ -139,7 +139,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C19] **Maolin Wang***, Yutian Xiao*, Binhao Wang*, Sheng Zhang, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
 
-[C18] Yi Wen, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, KE LIANG, **Maolin Wang$\dagger$**, Yiqi Wang, Fuzhen Zhuang$\dagger$, Xiangyu Zhao$\dagger$. (2025). *Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
+[C18] Yi Wen, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, KE LIANG, **Maolin Wang**†, Yiqi Wang, Fuzhen Zhuang$\dagger$, Xiangyu Zhao$\dagger$. (2025). *Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
 
 [C17] Yingyi Zhang, Pengyue Jia, Xianneng Li, Derong Xu, **Maolin Wang**, Yichao Wang, Zhaocheng Du, Huifeng Guo, Yong Liu, Ruiming Tang, Xiangyu Zhao. (2025). *LSRP: A Leader–Subordinate Retrieval Framework for Privacy-Preserving Cloud–Device Collaboration*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
 
@@ -147,13 +147,13 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C15] **Maolin Wang**, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. In *International Joint Conference on Artificial Intelligence (IJCAI) (**CCF-B**)*.
 
-[C14] **Maolin Wang***, Sheng Zhang*, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (**CCF-A**)*.
+[C14] **Maolin Wang\***, Sheng Zhang\*, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (**CCF-A**)*.
 
 [C13] Yuhao Wang, Junwei Pan, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Zhixiang Feng, Xiaotian Li, Jie Jiang, Xiangyu Zhao. (2025). PAD: Large Language Models Enhancing Sequential Recommendation. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (**CCF-A**)*.
 
 [C12] **Maolin Wang**, Xiangyu Zhao. (2025). *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*. In PhD Symposium Track at *IEEE International Conference on Data Engineering (ICDE)*.
 
-[C11] Sheng Zhang*, **Maolin Wang***, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
+[C11] Sheng Zhang\*, **Maolin Wang\***, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
   
 
 [C10] Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). *SIGMA: Selective Gated Mamba for Sequential Recommendation*. In *AAAI Conference on Artificial Intelligence (**CCF-A**)*.
@@ -162,11 +162,11 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 ### 2024
 
-[C8] **Maolin Wang***, Yao Zhao*, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In Industry Track at *The Web Conference (WWW)* **[Oral]** <span style="color: red">[Deployed in 5+ real-world scenarios at Ant Group and Alipay]</span>.
+[C8] **Maolin Wang\***, Yao Zhao\*, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In Industry Track at *The Web Conference (WWW)* **[Oral]** <span style="color: red">[Deployed in 5+ real-world scenarios at Ant Group and Alipay]</span>.
 
 [C7] **Maolin Wang**, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2024). *Tensorized Hypergraph Neural Networks*. In *SIAM International Conference on Data Mining (SDM) (**CCF-B**)*.
 
-[C6] Sheng Zhang*, **Maolin Wang***, Yao Zhao, Chenyi Zhuang, Ruocheng Guo, Xiangyu Zhao et al. (2024). *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems*. In *ACM Conference on Recommender Systems (RecSys) (**CCF-B**)*.
+[C6] Sheng Zhang\*, **Maolin Wang\***, Yao Zhao, Chenyi Zhuang, Ruocheng Guo, Xiangyu Zhao et al. (2024). *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems*. In *ACM Conference on Recommender Systems (RecSys) (**CCF-B**)*.
 
 ### 2023
 
