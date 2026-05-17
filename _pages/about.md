@@ -63,17 +63,19 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 # 📝 Publications 
 
+ * denotes equal contribution, $\dagger$ denotes coresponding authoe.
+
 **Journal Papers**
 
-[J6] Yupeng Xu, Huixun Jia, **Maolin Wang**, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, and Xiaodong Sun. (2025). Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System. NPJ Digital Medicine (**Impact Factor: 17.0**) (**JCR-Q1**).
+[J6] Yupeng Xu*, Huixun Jia*, **Maolin Wang***, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, and Xiaodong Sun. (2025). Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System. NPJ Digital Medicine (**Impact Factor: 17.0**) (**JCR-Q1**).
 
 [J5]  Tianyi Xu, Tianshuo Wei, Yan Ge, Bo Peng, Yue Li, **Maolin Wang**, Peng Wen, Chao Yang, and Ye Wei. (2025). Sustainable Materials Design with Multi-modal Artificial Intelligence. In Advanced Science (**Impact Factor: 15.6**) (**JCR-Q1**).
 
-[J4] **Maolin Wang**, Xinjian Zhao, Wanyu Wang, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao. *Embedding in recommender systems: A survey*. In ACM Transactions on Information Systems (TOIS) (**Impact Factor: 9.1**) (**CCF-A**).
+[J4] **Maolin Wang***, Xinjian Zhao*, Wanyu Wang*, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao. *Embedding in recommender systems: A survey*. In ACM Transactions on Information Systems (TOIS) (**Impact Factor: 9.1**) (**CCF-A**).
 
-[J3]  **Maolin Wang**, Yingyi Zhang, Bowen Yu, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*. In ACM Computing Surveys (**Impact Factor: 26.3**) (**JCR-Q1**).
+[J3]  **Maolin Wang***, Yingyi Zhang*, Bowen Yu*, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*. In ACM Computing Surveys (**Impact Factor: 26.3**) (**JCR-Q1**).
 
-[J2] Xiaopeng LI, **Maolin Wang**, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
+[J2] Xiaopeng LI*, **Maolin Wang***, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**SCI-Q2**)*.
 
 [J1] Yu Pan, **Maolin Wang**, and Zenglin Xu. (2021). *TedNet: A Pytorch Toolkit For Tensor Decomposition Networks*. In *Neurocomputing (**SCI-Q2**) **[100+ stars in Github]***.
 
@@ -121,7 +123,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 ### 2025
 
-[C26] ​​**Maolin Wang**, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[**Best Paper Award Runner Up** at KDD2025]</span>. *Deployed in 10+ real-world scenarios at Ant Group and Alipay.*
+[C26] ​​**Maolin Wang***, Jun Chu*, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao. (2025). Put Teacher in Student's Shoes: Cross-Distillation for Ultra-compact Model Compression Framework. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)* <span style="color: red">[**Best Paper Award Runner Up** at KDD2025]</span>. *Deployed in 10+ real-world scenarios at Ant Group and Alipay.*
 
 [C25] Xiao Han, Zimo Zhao, Wanyu Wang, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning. In *Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS) (**CCF-A**)*.
 
@@ -131,13 +133,13 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C22] Binhao Wang, Yutian Xiao, **Maolin Wang**, Zhiqi Li, Tianshuo Wei, Ruocheng Guo, Xiangyu Zhao. (2025). SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation. In *ACM International Conference on Information and Knowledge Management (CIKM) (CCF-B)*.
 
-[C21] Jingyu Peng, **Maolin Wang**, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu. (2025). *Stepwise Reasoning Error Disruption Attack of LLMs*. In *Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*. 
+[C21] Jingyu Peng*, **Maolin Wang***, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu. (2025). *Stepwise Reasoning Error Disruption Attack of LLMs*. In *Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*. 
 
 [C20] Pengyue Jia, Derong Xu, Xiaopeng Li, Zhaocheng Du, Xiangyang Li, Yichao Wang, Yuhao Wang, Qidong Liu, **Maolin Wang**, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. (2025). Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation. In Findings of *Annual Meeting of the Association for Computational Linguistics (ACL)*.
 
-[C19] **Maolin Wang**, Yutian Xiao, Binhao Wang, Sheng Zhang, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
+[C19] **Maolin Wang***, Yutian Xiao*, Binhao Wang*, Sheng Zhang, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
 
-[C18] Yi Wen, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, KE LIANG, **Maolin Wang**, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao. (2025). *Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
+[C18] Yi Wen, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, KE LIANG, **Maolin Wang$\dagger$**, Yiqi Wang, Fuzhen Zhuang$\dagger$, Xiangyu Zhao$\dagger$. (2025). *Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
 
 [C17] Yingyi Zhang, Pengyue Jia, Xianneng Li, Derong Xu, **Maolin Wang**, Yichao Wang, Zhaocheng Du, Huifeng Guo, Yong Liu, Ruiming Tang, Xiangyu Zhao. (2025). *LSRP: A Leader–Subordinate Retrieval Framework for Privacy-Preserving Cloud–Device Collaboration*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
 
@@ -145,13 +147,13 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C15] **Maolin Wang**, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. In *International Joint Conference on Artificial Intelligence (IJCAI) (**CCF-B**)*.
 
-[C14] **Maolin Wang**, Sheng Zhang, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (**CCF-A**)*.
+[C14] **Maolin Wang***, Sheng Zhang*, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (**CCF-A**)*.
 
 [C13] Yuhao Wang, Junwei Pan, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Zhixiang Feng, Xiaotian Li, Jie Jiang, Xiangyu Zhao. (2025). PAD: Large Language Models Enhancing Sequential Recommendation. In *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (**CCF-A**)*.
 
 [C12] **Maolin Wang**, Xiangyu Zhao. (2025). *MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning*. In PhD Symposium Track at *IEEE International Conference on Data Engineering (ICDE)*.
 
-[C11] Sheng Zhang, **Maolin Wang**, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
+[C11] Sheng Zhang*, **Maolin Wang***, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
   
 
 [C10] Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, **Maolin Wang**, Zitao Liu, Yi Chang, Xiangyu Zhao. (2025). *SIGMA: Selective Gated Mamba for Sequential Recommendation*. In *AAAI Conference on Artificial Intelligence (**CCF-A**)*.
@@ -160,7 +162,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 ### 2024
 
-[C8] **Maolin Wang**, Yao Zhao, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In Industry Track at *The Web Conference (WWW)* **[Oral]** <span style="color: red">[Deployed in 5+ real-world scenarios at Ant Group and Alipay]</span>.
+[C8] **Maolin Wang***, Yao Zhao*, Jiajia Liu, Jingdong Chen, Chenyi Zhuang, Jinjie Gu, Ruocheng Guo, Xiangyu Zhao. (2024). *Large Multimodal Model Compression via Efficient Pruning and Distillation*. In Industry Track at *The Web Conference (WWW)* **[Oral]** <span style="color: red">[Deployed in 5+ real-world scenarios at Ant Group and Alipay]</span>.
 
 [C7] **Maolin Wang**, Yaoming Zhen, Yu Pan, Yao Zhao, Chenyi Zhuang, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2024). *Tensorized Hypergraph Neural Networks*. In *SIAM International Conference on Data Mining (SDM) (**CCF-B**)*.
 
