@@ -63,8 +63,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 # 📝 Publications 
 
- \* denotes equal contribution, † denotes coresponding author.
-
+ \* denotes equal contribution; † denotes corresponding author.
+ 
 **Journal Papers**
 
 [J6] Yupeng Xu\*, Huixun Jia\*, **Maolin Wang\***, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, and Xiaodong Sun. (2025). Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System. NPJ Digital Medicine (**Impact Factor: 17.0**) (**JCR-Q1**).
