@@ -133,7 +133,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C22] Binhao Wang, Yutian Xiao, **Maolin Wang**, Zhiqi Li, Tianshuo Wei, Ruocheng Guo, Xiangyu Zhao. (2025). SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation. In *ACM International Conference on Information and Knowledge Management (CIKM) (CCF-B)*.
 
-[C21] Jingyu Peng*, **Maolin Wang\***, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu. (2025). *Stepwise Reasoning Error Disruption Attack of LLMs*. In *Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*. 
+[C21] Jingyu Peng\*, **Maolin Wang\***, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu. (2025). *Stepwise Reasoning Error Disruption Attack of LLMs*. In *Annual Meeting of the Association for Computational Linguistics (ACL) (**CCF-A**)*. 
 
 [C20] Pengyue Jia, Derong Xu, Xiaopeng Li, Zhaocheng Du, Xiangyang Li, Yichao Wang, Yuhao Wang, Qidong Liu, **Maolin Wang**, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. (2025). Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation. In Findings of *Annual Meeting of the Association for Computational Linguistics (ACL)*.
 
