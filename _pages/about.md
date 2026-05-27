@@ -93,7 +93,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C41] Yuqing Fu, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, Xiao Han, **Maolin Wang**, Guoshuai Zhao, Yi Chang, Xiangyu Zhao. (2026). SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
 
-[C40] Bingguang Hao, Zengzhuang Xu, **Maolin Wang**, Yuntao Wen, Yicheng Chen, Cunyin Peng, Long Chen, Xiangyu Zhao, Jinjie Gu, Chenyi Zhuang, Ji Zhang. (2026). BalanceSFT: Improving LLM Function Calling with Balanced Training Signals and Data Hardness. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
+[C40] Bingguang Hao\*, Zengzhuang Xu\*, **Maolin Wang\***, Yuntao Wen, Yicheng Chen, Cunyin Peng, Long Chen, Xiangyu Zhao, Jinjie Gu, Chenyi Zhuang, Ji Zhang. (2026). BalanceSFT: Improving LLM Function Calling with Balanced Training Signals and Data Hardness. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
 
 [C39] Jingyu Peng, **Maolin Wang**, Nan Wang, Jiatong Li, Yuchen Li, Yuyang Ye, Wanyu Wang, Pengyue Jia, Kai Zhang, Xiangyu Zhao. (2026). Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression. In *Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)*.
 
