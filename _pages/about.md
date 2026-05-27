@@ -137,7 +137,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C20] Pengyue Jia, Derong Xu, Xiaopeng Li, Zhaocheng Du, Xiangyang Li, Yichao Wang, Yuhao Wang, Qidong Liu, **Maolin Wang**, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. (2025). Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation. In Findings of *Annual Meeting of the Association for Computational Linguistics (ACL)*.
 
-[C19] **Maolin Wang\***, Yutian Xiao\*, Binhao Wang\*, Sheng Zhang, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
+[C19] **Maolin Wang\***, Yutian Xiao\*, Binhao Wang\*, Sheng Zhang, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *Find-Rec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
 
 [C18] Yi Wen, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, KE LIANG, **Maolin Wang**†, Yiqi Wang, Fuzhen Zhuang†, Xiangyu Zhao†. (2025). *Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**)*.
 
