@@ -23,8 +23,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
-
-- *2026.05*:  🎉🎉 Our paper *A Serial Two-Stage Framework for Robust Multimodal Fake News Detection via Adaptive Reasoning* has been accepted by KDD 2026.
+- *2026.06*: 🎉🎉 I'm delighted that one of my previously supervised master students at CityU, Zeyuan Zhu, has just received the outstanding performance awards (TOP 2 student in the DS department).
+- *2026.05*: 🎉🎉 Our paper *A Serial Two-Stage Framework for Robust Multimodal Fake News Detection via Adaptive Reasoning* has been accepted by KDD 2026.
 - *2026.05*: 🎉🎉 I'm delighted that my current supervised RA at CityU, Hongyu Chen, has received a PhD offer from CityU. Congratulations!
 - *2026.05*: 🎉🎉 Our paper *T-GINEE: A Tensor-Based Multi-Graph Representation Learning* has been accepted by ICML 2026.
 - 2026.04: 🎉🎉 I'm honored to be invited by **China Telecom** to deliver a speech at the Intelligent Cloud Ecosystem Conference of the 9th Digital China Construction Summit (第九届数字中国建设峰会·智能云生态大会).
@@ -268,7 +268,7 @@ AML Lab, City University of Hong Kong (2022-2025)
 - Linjie Mi (2024.12-2025.09) With Yingyi Zhang, **Outstanding Performance Award**, current position - Research Assistant, Shanghai Jiaotong University  (MAPLE🍁 @4th)
 - Xuhui Chen (2024.12-2025.09) With Wenlin Zhang, **Outstanding Performance Award** and **Outstanding Academic Performance Award**, current position - PhD student (Supervised by Prof. Baotian Hu), Harbin Institute of Technology (Shenzhen) (MAPLE🍁 @4th)
 - Binhao Wang (2024.12-2025.09) With Zichuan Fu, current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @4th)
-- Zhiqi Li (2024.12-2025.09) current position - Ongoing PhD student, SMILE Lab (Supervised by Prof. Zenglin Xu), Fudan University  (MAPLE🍁 @4th)
+- Zhiqi Li (2024.12-2025.09) Current position - Ongoing PhD student, SMILE Lab (Supervised by Prof. Zenglin Xu), Fudan University  (MAPLE🍁 @4th)
 - Tianshuo Wei (2024.09-2025.09) **Outstanding Dissertation Award** and **Outstanding Performance Award**, current position - Incoming PhD Student, City University of Hong Kong (Supervised by Prof. Kaidi Xu) (MAPLE🍁 @3th)
 - Bowen Yu (2024.09-2025.09) Current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @3th)
 - Sheng Zhang (2023.09-2024.09) **Outstanding Academic Performance Award**, **Outstanding Research Project Award**, current position - PhD student, AML Lab, City University of Hong Kong (MAPLE🍁 @2nd)
