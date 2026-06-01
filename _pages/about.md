@@ -23,7 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
-- *2026.06*: 🎉🎉 I'm delighted that one of my previously supervised master students at CityU, Zeyuan Zhu, has just received the outstanding performance awards (TOP 2 student in the DS department).
+- *2026.06*: 🎉🎉 I'm delighted that one of my previously supervised master students at CityU, Zeyuan Zhu, has just received the Outstanding Academic Performance Award (TOP 2 student in the DS department).
 - *2026.05*: 🎉🎉 Our paper *A Serial Two-Stage Framework for Robust Multimodal Fake News Detection via Adaptive Reasoning* has been accepted by KDD 2026.
 - *2026.05*: 🎉🎉 I'm delighted that my current supervised RA at CityU, Hongyu Chen, has received a PhD offer from CityU. Congratulations!
 - *2026.05*: 🎉🎉 Our paper *T-GINEE: A Tensor-Based Multi-Graph Representation Learning* has been accepted by ICML 2026.
