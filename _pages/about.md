@@ -23,6 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
+- *2026.06*: 🎉🎉 I am thrilled to receive the **College of Computing Research Excellence Award** for PhD Students (2025/26)!
 - *2026.06*: 🎉🎉 My PhD dissertation, *Tensor Criterion Based Neural Networks*, has been selected as a **Runner-Up** for the **INNS Doctoral Dissertation Award**! This award recognizes the best doctoral dissertations in neural networks, machine learning, and related fields.
 - *2026.06*: 🎉🎉 I'm delighted that one of my previously supervised master students at CityU, Zeyuan Zhu, has just received the Outstanding Academic Performance Award (TOP 2 student in the DS department).
 - *2026.05*: 🎉🎉 Our paper *A Serial Two-Stage Framework for Robust Multimodal Fake News Detection via Adaptive Reasoning* has been accepted by KDD 2026.
@@ -190,6 +191,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 # 🎖 Honors and Awards
 - **INNS Best Doctoral Dissertation Award Runner Up** 2026
 - **Best Paper Award Runner Up** at KDD 2025
+- **College of Computing Research Excellence Award**, City University of Hong Kong
 - KDD Student Travel Award
 - SDM Student Travel Award
 - Research Tuition Scholarship, City University of Hong Kong
