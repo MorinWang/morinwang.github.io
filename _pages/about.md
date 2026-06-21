@@ -291,6 +291,7 @@ AML Lab, City University of Hong Kong (2022-2025)
 - Bingguang Hao (2025.06-2025.12) Master student at UESTC (MAPLE🍁 @6th)
 
 **Remote Research Assistants**
+- Junlong Li (2024.06-) (MAPLE🍁 @10th)
 - Chang Wang (2024.06-) (MAPLE🍁 @3th)
 - Baiyuan Qiu (2024.06-) (MAPLE🍁 @3th)
   
