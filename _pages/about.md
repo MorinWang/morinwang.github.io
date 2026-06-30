@@ -23,7 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
-- *2026.05*: 🎉🎉 I'm delighted that my current supervised RA at CityU, Beining Bao, has received a PhD offer from CityU. I'm also delighted that one of my previously supervised master students at CityU, Yunbo Zhang, has received a PhD offer from Beihang University. Congratulations!
+- *2026.06*: 🎉🎉 I'm delighted that my current supervised RA at CityU, Beining Bao, has received a PhD offer from CityU. I'm also delighted that one of my previously supervised master students at CityU, Yunbo Zhang, has received a PhD offer from Beihang University. Congratulations!
 - *2026.06*: 🎉🎉 I am thrilled to receive the **College of Computing Research Excellence Award** for PhD Students (2025/26)!
 - *2026.06*: 🎉🎉 My PhD dissertation, *Tensor Criterion Based Neural Networks*, has been selected as a **Runner-Up** for the **INNS Doctoral Dissertation Award**! This award recognizes the best doctoral dissertations in neural networks, machine learning, and related fields.
 - *2026.06*: 🎉🎉 I'm delighted that one of my previously supervised master students at CityU, Zeyuan Zhu, has just received the Outstanding Academic Performance Award (TOP 2 student in the DS department).
