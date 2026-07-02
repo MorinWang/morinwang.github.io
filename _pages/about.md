@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute of AI for Science (HKAI-Sci), City University of Hong Kong. He received his Ph.D. from the Department of Data Science, City University of Hong Kong, under the supervision of ***Prof. Xiangyu Zhao*** and co-supervision of ***Dr. Ruocheng Guo and Prof. Junhui Wang***. His research focuses on graph learning, model compression, tensor/matrix decomposition, and LLMs. Prior to his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***. His ultimate goal is to contribute to the advancement of sustainable AI that is both powerful and environmentally responsible, making AI more accessible to everyone.
+Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute of AI for Science (HKAI-Sci), City University of Hong Kong. He received his Ph.D. from the Department of Data Science, City University of Hong Kong, under the supervision of Prof. Ruocheng Guo, Prof. Xiangyu Zhao, and Prof. Junhui Wang. His research focuses on graph learning, model compression, tensor/matrix decomposition, and LLMs. Prior to his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***. His ultimate goal is to contribute to the advancement of sustainable AI that is both powerful and environmentally responsible, making AI more accessible to everyone.
 
 
 # 🔥 News
@@ -204,7 +204,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 # 📖 Educations
 - *2021.09 - 2025.10*, Ph.D. in Data Science, City University of Hong Kong, Hong Kong SAR
-   Supervisors: **Prof. Xiangyu Zhao, Dr. Ruochen Guo (External), and Prof. Junhui Wang (External)**
+   Supervisors: **Prof. Ruochen Guo, Prof. Xiangyu Zhao, and Prof. Junhui Wang**
 - *2018.09 - 2021.06*, M.Phil. in Computer Science, University of Electronic Science and Technology of China, Chengdu, China
    Supervisor: **Prof. Zenglin Xu**
 - *2014.09 - 2018.06*, B.E. in Computer Science (Yingcai Honors College), University of Electronic Science and Technology of China, Chengdu, China
@@ -213,7 +213,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 # 💬 Services
 * *2026.06*, **Session Chair**, The Web Conference (WWW, CCF-A)
-  Chair of *“Industry 3”* session
+  Chair of *“Core Recommendation and CTR Optimization”* session
 
 * *2024.04*, **Session Chair**, The Web Conference (WWW, CCF-A)
   Chair of *“Specialized Innovations in Recommender Systems”* and *“User Modeling for Recommenders”* sessions
@@ -292,7 +292,6 @@ AML Lab, City University of Hong Kong (2022-2025)
 - Bingguang Hao (2025.06-2025.12) Master student at UESTC (MAPLE🍁 @6th)
 
 **Remote Research Assistants**
-- Junlong Li (2024.06-) (MAPLE🍁 @10th)
 - Chang Wang (2024.06-) (MAPLE🍁 @3th)
 - Baiyuan Qiu (2024.06-) (MAPLE🍁 @3th)
   
