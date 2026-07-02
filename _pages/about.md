@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute of AI for Science (HKAI-Sci), City University of Hong Kong. He received his Ph.D. from the Department of Data Science, City University of Hong Kong, under the supervision of ***Prof. Ruocheng Guo, Prof. Xiangyu Zhao, and Prof. Junhui Wang.*** His research focuses on graph learning, model compression, tensor/matrix decomposition, and LLMs. Prior to his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***. His ultimate goal is to contribute to the advancement of sustainable AI that is both powerful and environmentally responsible, making AI more accessible to everyone.
+Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute of AI for Science (HKAI-Sci), City University of Hong Kong. He received his Ph.D. from the Department of Data Science, City University of Hong Kong, under the supervision of ***Prof. Ruocheng Guo, Prof. Xiangyu Zhao, and Prof. Junhui Wang.*** His research focuses on graph learning, model compression, tensor/matrix decomposition, and LLMs. Before his doctoral studies, he received his master's and bachelor's degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of ***Prof. Zenglin Xu***. His ultimate goal is to contribute to the advancement of sustainable AI that is both powerful and environmentally responsible, making AI more accessible to everyone.
 
 
 # 🔥 News
