@@ -23,6 +23,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
+- *2026.07*:  🎉🎉 Our paper *UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation* has been accepted by Recsys 2026.
+- *2026.07*:  🎉🎉 Our two papers have been accepted by SDM 2026.
 - *2026.06*: 🎉🎉 I'm delighted that my current supervised RA at CityU, Beining Bao, has received a PhD offer from CityU. I'm also delighted that one of my previously supervised master students at CityU, Yunbo Zhang, has received a PhD offer from Beihang University. Congratulations!
 - *2026.06*: 🎉🎉 I am thrilled to receive the **College of Computing Research Excellence Award** for PhD Students (2025/26)!
 - *2026.06*: 🎉🎉 My PhD dissertation, *Tensor Criterion Based Neural Networks*, has been selected as a **Runner-Up** for the **INNS Doctoral Dissertation Award**! This award recognizes the best doctoral dissertations in neural networks, machine learning, and related fields.
@@ -85,10 +87,15 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 **Conference Papers**
 
 ### 2026
+[C48] Zhuang Liu, Yongkang Fu, Zuodong Yang, Zonggang Wu, Yuqi Lu, Shouke Qin, Guangxing Chen, Shantao Li†, and **Maolin Wang**†. (2026). UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation. In Proceedings of the ACM Conference on Recommender Systems (RecSys) (**CCF-B**). (†Corresponding Author) <span style="color: red">[Deployed in real-world scenarios at Baidu]</span>.
+
+[C47] Bowen Yu, Sheng Zhang, Binhao Wang, Yi Wen, Jingtong Gao, Bowen Liu, Zimo Zhao, Shanshan Ye, Wanyu Wang, **Maolin Wang**†, and Xiangyu Zhao†. (2026). BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking. In Proceedings of the SIAM International Conference on Data Mining (SDM) (**CCF-B**). (†Corresponding Authors)
+
+[C46] Chenlong Bao, **Maolin Wang**†, Mingyang Lyu, Fangyuan Wang, Jin-Tao Tang†, Shasha Li, and Ting Wang. (2026). Timeline Granularity Transformation: Aligning Narrative Logic with Temporal-Semantic Evolution. In Proceedings of the SIAM International Conference on Data Mining (SDM) (**CCF-B**). (*Corresponding Author)
+
 [C45] **Maolin Wang**, Ziting Mai, Zichun Liu, Beining Bao, Hongyu Chen, Junjie Liu, Yunbo Zhang, Bingkun Zhao, Tianshuo Wei, Jian Liu, Chenbin Zhang, and Haoran Yang. (2026). A Serial Two-Stage Framework for Robust Multimodal Fake News Detection via Adaptive Reasoning. In *Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)* (**CCF-A**).
 
-[C44] Qi Qin, Yuzhao Zhang, Jia-Xing Han, **Maolin Wang**, Yu Su, Yifan Sun, and Peng Zhang. (2026). HIVE: Hierarchical Generation of Integrated and Varied Ensembles for Efficient Out-of-Distribution Generalization. In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (CCF-A).  <span style="color: red">[Deployed in real-world scenarios at Ant Group]</span>.
-
+[C44] Qi Qin, Yuzhao Zhang, Jia-Xing Han, **Maolin Wang**, Yu Su, Yifan Sun, and Peng Zhang. (2026). HIVE: Hierarchical Generation of Integrated and Varied Ensembles for Efficient Out-of-Distribution Generalization. In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) (**CCF-A**).  <span style="color: red">[Deployed in real-world scenarios at Ant Group]</span>.
 
 [C43] **Maolin Wang**, Ziting Mai, Xuhui Chen, Zhiqi Li, Tianshuo Wei, Yutian Xiao, Wenlin Zhang, Wanyu Wang, Ruocheng Guo, Haoxuan Li, Zenglin Xu, and Xiangyu Zhao. (2026). T-GINEE: A Tensor-Based Multi-Graph Representation Learning. In *Proceedings of the International Conference on Machine Learning (ICML)* (**CCF-A**).
 
