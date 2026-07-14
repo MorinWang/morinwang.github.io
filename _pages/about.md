@@ -250,6 +250,9 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 **MAPLE🍁** stands for **MA**chine intelligence and **P**robabilistic **LE**arning. I wish that, upon leaving my guidance, my mentored students will embark on futures as vibrant and remarkable as the autumn maple.
 
+**PhD Students**
+- Qiulin An (2026.07-) (MAPLE🍁 @10th), *Co-supervision with Prof. Kai Zheng at UESTC*  
+
 **Cityu HK Master Students Under My Supervision**  
 - Yuli Wang (2026.03-) (MAPLE🍁 @9th) 
 - Yu Wang (2025.12-) (MAPLE🍁 @8th)
