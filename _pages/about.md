@@ -90,7 +90,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C49] Zhuang Liu, Yongkang Fu, Zuodong Yang, Zonggang Wu, Yuqi Lu, Shouke Qin, Guangxing Chen, Shantao Li†, and **Maolin Wang**†. (2026). UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation. In Proceedings of the ACM Conference on Recommender Systems (RecSys) (**CCF-B**). (†Corresponding Author) <span style="color: red">[Deployed in real-world scenarios at Baidu]</span>.
 
-[C48] Chenlong Bao, **Maolin Wang**†, Mingyang Lyu, Fangyuan Wang, Jin-Tao Tang†, Shasha Li, and Ting Wang. (2026). Timeline Granularity Transformation: Aligning Narrative Logic with Temporal-Semantic Evolution. In Proceedings of the SIAM International Conference on Data Mining (SDM) (**CCF-B**). (*Corresponding Author)
+[C48] Chenlong Bao, **Maolin Wang**†, Mingyang Lyu, Fangyuan Wang, Jin-Tao Tang†, Shasha Li, and Ting Wang. (2026). Timeline Granularity Transformation: Aligning Narrative Logic with Temporal-Semantic Evolution. In Proceedings of the SIAM International Conference on Data Mining (SDM) (**CCF-B**). (†Corresponding Author)
 
 [C47] Bowen Yu, Sheng Zhang, Binhao Wang, Yi Wen, Jingtong Gao, Bowen Liu, Zimo Zhao, Shanshan Ye, Wanyu Wang, **Maolin Wang**†, and Xiangyu Zhao†. (2026). BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking. In Proceedings of the SIAM International Conference on Data Mining (SDM) (**CCF-B**). (†Corresponding Authors)
 
