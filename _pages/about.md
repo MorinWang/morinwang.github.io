@@ -245,7 +245,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 * *2024.04*, **Session Chair**, The Web Conference (WWW, CCF-A)
   Chair of *“Specialized Innovations in Recommender Systems”* and *“User Modeling for Recommenders”* sessions
----
+
 
 * *2024–2026*, **Program Committee Member & Reviewer**
 
