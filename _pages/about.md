@@ -233,8 +233,11 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 # 💬 Services
 * *2026.08*, **Session Chair**, KDD 2026 (CCF-A)
+  
  Chair of *“Structured Data Synthesis & Generation”* session
+ 
  Chair of *“Efficient LLM Training and Adaptation”* session
+ 
  Chair of *“Biomedical Sciences”* session
 
 * *2026.06*, **Session Chair**, The Web Conference (WWW, CCF-A)
