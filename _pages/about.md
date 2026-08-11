@@ -23,6 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
+- *2026.08*:  🎉🎉 Our paper *A Tensor-Based Multilayer Graph Representation Learning* received the **Best Paper Award** at the 1st TensorKDD Workshop (Interplay of Classical Tensor Methods and Foundation Models) co-located with KDD 2026, Jeju, Korea.
 - *2026.07*:  🎉🎉 Our paper *UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation* has been accepted by Recsys 2026.
 - *2026.07*:  🎉🎉 Our two papers have been accepted by SDM 2026.
 - *2026.06*: 🎉🎉 I'm delighted that my current supervised RA at CityU, Beining Bao, has received a PhD offer from CityU. I'm also delighted that one of my previously supervised master students at CityU, Yunbo Zhang, has received a PhD offer from Beihang University. Congratulations!
@@ -87,6 +88,11 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 **Conference Papers**
 
 ### 2026
+[C52] Bowen Liu, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Xiao Han, and Xiangyu Zhao. (2026). M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering. In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), Full Research Paper (**CCF-B**).
+
+[C51] Jiancheng Dong, Pengyue Jia, Jingyu Peng, **Maolin Wang**, Yuhao Wang, Lixin Su, Xin Sun, Shuaiqiang Wang, Dawei Yin, and Xiangyu Zhao. (2026). Learning a Single Token to Replace Long System Prompts in LLMs. In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), Full Research Paper (**CCF-B**).
+
+[C50] Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, Yingyi Zhang, **Maolin Wang**, Yong Liu, and Xiangyu Zhao. (2026). R$^2$-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search. In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), Full Research Paper (**CCF-B**).
 
 [C49] Zhuang Liu, Yongkang Fu, Zuodong Yang, Zonggang Wu, Yuqi Lu, Shouke Qin, Guangxing Chen, Shantao Li†, and **Maolin Wang**†. (2026). UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation. In Proceedings of the ACM Conference on Recommender Systems (RecSys) (**CCF-B**). (†Corresponding Authors) <span style="color: red">[Deployed in real-world scenarios at Baidu]</span>.
 
@@ -203,6 +209,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 - **INNS Best Doctoral Dissertation Award Runner Up** 2026
 - **Best Paper Award Runner Up** at KDD 2025
 - **College of Computing Research Excellence Award**, City University of Hong Kong
+- *Best Paper Award* at the 1st TensorKDD Workshop (Interplay of Classical Tensor Methods and Foundation Models) co-located with KDD 2026, Jeju, Korea.
+- *Best Reviewers* at KDD 2026 ADS Track 
 - KDD Student Travel Award
 - SDM Student Travel Award
 - Research Tuition Scholarship, City University of Hong Kong
