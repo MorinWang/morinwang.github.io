@@ -82,7 +82,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [J4]  **Maolin Wang\***, Yingyi Zhang\*, Bowen Yu\*, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*. In *ACM Computing Surveys (**Impact Factor: 31.4**) (**JCR-Q1**)*.
 
-[J3] Kai Li, Yupeng Deng, Jingbo Chen, Yu Meng, Zhihao Xi, Junxian Ma, Chenhao Wang, Maolin Wang, and Xiangyu Zhao. (2026). PolyFootNet: Extracting Polygonal Building Footprints in Off-Nadir Remote Sensing Images. In *IEEE Transactions on Geoscience and Remote Sensing* (**Impact Factor: 9.4**)  (**CCF-B**) (**JCR-Q1**)*.
+[J3] Kai Li, Yupeng Deng, Jingbo Chen, Yu Meng, Zhihao Xi, Junxian Ma, Chenhao Wang, Maolin Wang, and Xiangyu Zhao. (2026). PolyFootNet: Extracting Polygonal Building Footprints in Off-Nadir Remote Sensing Images. In *IEEE Transactions on Geoscience and Remote Sensing (**Impact Factor: 9.4**)  (**CCF-B**) (**JCR-Q1**)*.
 
 [J2] Xiaopeng LI\*, **Maolin Wang\***, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**Impact Factor: 3.8**)  (**JCR-Q2**)*.
 
