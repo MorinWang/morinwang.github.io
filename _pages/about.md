@@ -23,7 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
-- *2026.08*: 🎉🎉 I am very honored to receive an invitation from Prof. Kijung to present an invited talk on 'Efficient Model Compression for Practical AI' to his research team at Korea Advanced Institute of Science and Technology~(KAIST).
+- *2026.08*: 🎉🎉 I am very honored to receive an invitation from Prof. Kijung to present an invited talk on 'Efficient Model Compression for Practical AI' to his research team at Korea Advanced Institute of Science and Technology (KAIST).
 - *2026.08*:  🎉🎉 Our paper *A Tensor-Based Multilayer Graph Representation Learning* received the **Best Paper Award** at the 1st TensorKDD Workshop (Interplay of Classical Tensor Methods and Foundation Models) co-located with KDD 2026, Jeju, Korea.
 - *2026.07*:  🎉🎉 Our paper *UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation* has been accepted by Recsys 2026.
 - *2026.07*:  🎉🎉 Our two papers have been accepted by SDM 2026.
@@ -82,7 +82,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [J4]  **Maolin Wang\***, Yingyi Zhang\*, Bowen Yu\*, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. *Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions*. In *ACM Computing Surveys (**Impact Factor: 31.4**) (**JCR-Q1**)*.
 
-[J3] Kai Li, Yupeng Deng, Jingbo Chen, Yu Meng, Zhihao Xi, Junxian Ma, Chenhao Wang, Maolin Wang, and Xiangyu Zhao. (2026). PolyFootNet: Extracting Polygonal Building Footprints in Off-Nadir Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing (JCR Q1).
+[J3] Kai Li, Yupeng Deng, Jingbo Chen, Yu Meng, Zhihao Xi, Junxian Ma, Chenhao Wang, Maolin Wang, and Xiangyu Zhao. (2026). PolyFootNet: Extracting Polygonal Building Footprints in Off-Nadir Remote Sensing Images. In *IEEE Transactions on Geoscience and Remote Sensing* (**Impact Factor: 9.4**)  (**CCF-B**) (**JCR-Q1**)*.
 
 [J2] Xiaopeng LI\*, **Maolin Wang\***, and Hing Cheung So. (2022). *An Interpretable Bi-Branch Neural Network for Matrix Completion*. In *Signal Processing (**Impact Factor: 3.8**)  (**JCR-Q2**)*.
 
