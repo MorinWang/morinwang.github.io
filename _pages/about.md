@@ -91,17 +91,22 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 **Conference Papers**
 
 ### 2026
-[C52] Bowen Liu, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Xiao Han, and Xiangyu Zhao. (2026). M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering. In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), Full Research Paper (**CCF-B**).
+[C54] Yongkang Fu, Beining Bao, Yu Jiang, Xiangyu Zhao, Hongyang Wei, Guangxing Chen, Zuodong Yang, Shantao Li, Zonggang Wu, Yuqi Lu, Shouke Qin, Hanmeng Liu, and Maolin Wang†. (2026). MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling. In *Proceedings of the IEEE International Conference on Data Mining (ICDM)* (**CCF-B**). (†Corresponding Author)
 
-[C51] Jiancheng Dong, Pengyue Jia, Jingyu Peng, **Maolin Wang**, Yuhao Wang, Lixin Su, Xin Sun, Shuaiqiang Wang, Dawei Yin, and Xiangyu Zhao. (2026). Learning a Single Token to Replace Long System Prompts in LLMs. In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), Full Research Paper (**CCF-B**).
+[C53] Jian Liu, Pengzhi Zhong, Tianshuo Wei, Chenbin Zhang, and Maolin Wang†. (2026). Reference-Calibrated Residual Auditing for Backdoor Inspection in Time-Series Forecasting. In *Proceedings of the IEEE International Conference on Data Mining (ICDM)* (**CCF-B**). (†Corresponding Author)
 
-[C50] Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, Yingyi Zhang, **Maolin Wang**, Yong Liu, and Xiangyu Zhao. (2026). R$^2$-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search. In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM), Full Research Paper (**CCF-B**).
 
-[C49] Zhuang Liu, Yongkang Fu, Zuodong Yang, Zonggang Wu, Yuqi Lu, Shouke Qin, Guangxing Chen, Shantao Li†, and **Maolin Wang**†. (2026). UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation. In Proceedings of the ACM Conference on Recommender Systems (RecSys) (**CCF-B**). (†Corresponding Authors) <span style="color: red">[Deployed in real-world scenarios at Baidu]</span>.
+[C52] Bowen Liu, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Xiao Han, and Xiangyu Zhao. (2026). M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering. In *Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)* (**CCF-B**).
 
-[C48] Chenlong Bao, **Maolin Wang**†, Mingyang Lyu, Fangyuan Wang, Jin-Tao Tang†, Shasha Li, and Ting Wang. (2026). Timeline Granularity Transformation: Aligning Narrative Logic with Temporal-Semantic Evolution. In Proceedings of the SIAM International Conference on Data Mining (SDM) (**CCF-B**). (†Corresponding Authors)
+[C51] Jiancheng Dong, Pengyue Jia, Jingyu Peng, **Maolin Wang**, Yuhao Wang, Lixin Su, Xin Sun, Shuaiqiang Wang, Dawei Yin, and Xiangyu Zhao. (2026). Learning a Single Token to Replace Long System Prompts in LLMs. In *Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)* (**CCF-B**).
 
-[C47] Bowen Yu, Sheng Zhang, Binhao Wang, Yi Wen, Jingtong Gao, Bowen Liu, Zimo Zhao, Shanshan Ye, Wanyu Wang, **Maolin Wang**†, and Xiangyu Zhao†. (2026). BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking. In Proceedings of the SIAM International Conference on Data Mining (SDM) (**CCF-B**). (†Corresponding Authors)
+[C50] Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, Yingyi Zhang, **Maolin Wang**, Yong Liu, and Xiangyu Zhao. (2026). R$^2$-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search. In *Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)*, Full Research Paper (**CCF-B**).
+
+[C49] Zhuang Liu, Yongkang Fu, Zuodong Yang, Zonggang Wu, Yuqi Lu, Shouke Qin, Guangxing Chen, Shantao Li†, and **Maolin Wang**†. (2026). UNIQUE: A Unified Retrieval and Ranking System for Large-Scale Feed Recommendation. In *Proceedings of the ACM Conference on Recommender Systems (RecSys)* (**CCF-B**). (†Corresponding Authors) <span style="color: red">[Deployed in real-world scenarios at Baidu]</span>.
+
+[C48] Chenlong Bao, **Maolin Wang**†, Mingyang Lyu, Fangyuan Wang, Jin-Tao Tang†, Shasha Li, and Ting Wang. (2026). Timeline Granularity Transformation: Aligning Narrative Logic with Temporal-Semantic Evolution. In *Proceedings of the SIAM International Conference on Data Mining (SDM)* (**CCF-B**). (†Corresponding Authors)
+
+[C47] Bowen Yu, Sheng Zhang, Binhao Wang, Yi Wen, Jingtong Gao, Bowen Liu, Zimo Zhao, Shanshan Ye, Wanyu Wang, **Maolin Wang**†, and Xiangyu Zhao†. (2026). BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking. In *Proceedings of the SIAM International Conference on Data Mining (SDM)* (**CCF-B**). (†Corresponding Authors)
 
 [C46] **Maolin Wang**, Ziting Mai, Zichun Liu, Beining Bao, Hongyu Chen, Junjie Liu, Yunbo Zhang, Bingkun Zhao, Tianshuo Wei, Jian Liu, Chenbin Zhang, and Haoran Yang. (2026). A Serial Two-Stage Framework for Robust Multimodal Fake News Detection via Adaptive Reasoning. In *Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)* (**CCF-A**).
 
