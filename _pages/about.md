@@ -92,9 +92,9 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 **Conference Papers**
 
 ### 2026
-[C54] Yongkang Fu, Beining Bao, Yu Jiang, Xiangyu Zhao, Hongyang Wei, Guangxing Chen, Zuodong Yang, Shantao Li, Zonggang Wu, Yuqi Lu, Shouke Qin, Hanmeng Liu, and Maolin Wang^†. (2026). MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling. In *Proceedings of the IEEE International Conference on Data Mining (ICDM)* (**CCF-B**). (†Corresponding Author) <span style="color: red">[Deployed in real-world scenarios at Baidu]</span>.
+[C54] Yongkang Fu, Beining Bao, Yu Jiang, Xiangyu Zhao, Hongyang Wei, Guangxing Chen, Zuodong Yang, Shantao Li, Zonggang Wu, Yuqi Lu, Shouke Qin, Hanmeng Liu, and **Maolin Wang**$^†$. (2026). MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling. In *Proceedings of the IEEE International Conference on Data Mining (ICDM)* (**CCF-B**). (†Corresponding Author) <span style="color: red">[Deployed in real-world scenarios at Baidu]</span>.
 
-[C53] Jian Liu, Pengzhi Zhong, Tianshuo Wei, Chenbin Zhang, and Maolin Wang†. (2026). Reference-Calibrated Residual Auditing for Backdoor Inspection in Time-Series Forecasting. In *Proceedings of the IEEE International Conference on Data Mining (ICDM)* (**CCF-B**). (†Corresponding Author)
+[C53] Jian Liu, Pengzhi Zhong, Tianshuo Wei, Chenbin Zhang, and **Maolin Wang**^†. (2026). Reference-Calibrated Residual Auditing for Backdoor Inspection in Time-Series Forecasting. In *Proceedings of the IEEE International Conference on Data Mining (ICDM)* (**CCF-B**). (†Corresponding Author)
 
 
 [C52] Bowen Liu, Pengyue Jia, Wanyu Wang, **Maolin Wang**, Xiao Han, and Xiangyu Zhao. (2026). M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering. In *Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM)* (**CCF-B**).
