@@ -271,7 +271,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 * *2020–2026*, **Journal Reviewer**
 
   IEEE TNNLS; IEEE TKDE; IEEE Transactions on Big Data; Neural Networks; Neurocomputing; Pattern Recognition;
-  ACM TKDD; IEEE JSAC; Scientific Reports;
+  ACM TKDD; IEEE JSAC; Scientific Reports; Machine Learning;
   Digital Signal Processing; Applied Soft Computing
 
 # 👨‍🏫 Mentorships
