@@ -209,7 +209,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C1] Yu Pan, Jing Xu, **Maolin Wang**, Jinmian Ye, Fei Wang, Kun Bai, and Zenglin Xu. (2019). *Compressing Recurrent Neural Networks with Tensor Ring for Action Recognition*. In *AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
 
-# Deployment in Real Production
+# ⚙️ Deployment in Real Production
 
 I believe good research should end up in real-world production; some of my research has delivered measurable gains in real business systems:
 
