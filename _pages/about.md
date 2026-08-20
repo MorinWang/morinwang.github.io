@@ -221,7 +221,7 @@ I believe good research should end up in real-world production; some of my resea
 - **PromptX** — Open-source cognitive agent platform with long-term memory, letting agents persist and reuse knowledge across sessions. *3.4k GitHub stars* WWW 2026 Demo
 - **Hong Kong–Guizhou Compute Collaboration ("港模黔训")** — Models designed in Hong Kong, trained on China Telecom's Guizhou compute infrastructure. Deployed at **China Telecom** since 2026, 2026
 - **Cross-Distillation** — Compresses large models into ultra-compact ones with minimal accuracy loss; live in 10+ business scenarios. Deployed at **Ant Group / Alipay** since 2024, KDD 2025 (**Best Paper Runner-up**)
-  **Ophthalmology Report Agent** — Multi-agent LLM system that drafts patient admission reports from multimodal clinical records. **Hospital deployment** Since 2024, ARVO, npj Digital Medicine
+- **Ophthalmology Report Agent** — Multi-agent LLM system that drafts patient admission reports from multimodal clinical records. **Hospital deployment** Since 2024, ARVO, npj Digital Medicine
 - **Multimodal LLM Pruning + Distillation** — Joint pruning and distillation delivering 5× inference speedup and 50% lower energy at 0.8% accuracy loss. Deployed at **Ant Group / Alipay** since 2023, WWW 2024
 
 # 📝 Patent
