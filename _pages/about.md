@@ -209,6 +209,20 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 [C1] Yu Pan, Jing Xu, **Maolin Wang**, Jinmian Ye, Fei Wang, Kun Bai, and Zenglin Xu. (2019). *Compressing Recurrent Neural Networks with Tensor Ring for Action Recognition*. In *AAAI Conference on Artificial Intelligence (AAAI) (**CCF-A**)*.
 
+# Deployment in Real Production
+
+I believe good research should end up in real-world production; some of my research has delivered measurable gains in real business systems:
+
+- **MuSeR** — Scalable long-sequence recommendation that models multiple user interests from ultra-long behavior histories. Deployed at **Baidu** since 2025, ICDM 2026
+- **UNIQUE** — Unifies retrieval and ranking into one model, removing the multi-stage mismatch in large-scale feed recommendation. Deployed at **Baidu** since 2026, RecSys 2026
+- **ARCHER** — Progressively aligned multimodal e-commerce search; matches text queries against product images and videos for cross-border B2B search and retrieval. Deployed at **Alibaba.com** since 2025, WWW 2026
+- **HIVE** — Hierarchical ensembling for out-of-distribution generalization, improving robustness under real-world distribution shift. Deployed at **Ant Group** Since 2026, KDD 2026
+- **NEZHA** — Zero-sacrifice parallel decoding that removes the autoregressive latency bottleneck in generative recommendation. Deployed at **Taobao**, WWW 2026
+- **PromptX** — Open-source cognitive agent platform with long-term memory, letting agents persist and reuse knowledge across sessions. *3.4k GitHub stars* WWW 2026 Demo
+- **Hong Kong–Guizhou Compute Collaboration ("港模黔训")** — Models designed in Hong Kong, trained on China Telecom's Guizhou compute infrastructure. Deployed at **China Telecom** since 2026, 2026
+- **Cross-Distillation** — Compresses large models into ultra-compact ones with minimal accuracy loss; live in 10+ business scenarios. Deployed at **Ant Group / Alipay** since 2024, KDD 2025 (**Best Paper Runner-up**)
+  **Ophthalmology Report Agent** — Multi-agent LLM system that drafts patient admission reports from multimodal clinical records. **Hospital deployment** Since 2024, ARVO, npj Digital Medicine
+- **Multimodal LLM Pruning + Distillation** — Joint pruning and distillation delivering 5× inference speedup and 50% lower energy at 0.8% accuracy loss. Deployed at **Ant Group / Alipay** since 2023, WWW 2024
 
 # 📝 Patent
 
