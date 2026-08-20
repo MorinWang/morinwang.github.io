@@ -255,11 +255,11 @@ I believe good research should end up in real-world production; some of my resea
 # 💬 Services
 * *2026.08*, **Session Chair**, KDD 2026 (CCF-A)
   
- Chair of *“Structured Data Synthesis & Generation”* session
+   Chair of *“Structured Data Synthesis & Generation”* session
  
- Chair of *“Efficient LLM Training and Adaptation”* session
+   Chair of *“Efficient LLM Training and Adaptation”* session
  
- Chair of *“Biomedical Sciences”* session
+   Chair of *“Biomedical Sciences”* session
 
 * *2026.06*, **Session Chair**, The Web Conference (WWW, CCF-A)
   Chair of *“Core Recommendation and CTR Optimization”* session
