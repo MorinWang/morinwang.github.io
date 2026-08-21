@@ -92,6 +92,15 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 **Conference Papers**
 
 ### 2026
+
+[C58] Zhiqi Li, Yichi Zhang, Cunjie He, Ziheng Hua, **Maolin Wang**, and Zenglin Xu. (2026). Decoding Self-Knowledge from Latent Reasoning Models for Selective Prediction and Adaptive Routing. In *Findings of the Association for Computational Linguistics: EMNLP 2026*.
+
+[C57] Yihua Shao, Jia Li, Siyu Chen, Xinyu Luo, Yang Liu, Kecheng Chen, Xinwei Long, Lingyu Zhu, Fanhu Zeng, **Maolin Wang**, Ziyang Yan, Jingcai Guo, Hao Tang, Nicu Sebe, and Zhenyi Wang. (2026). LiST: Local-Simplex Test-Time LoRA Fusion. In *Findings of the Association for Computational Linguistics: EMNLP 2026*.
+
+[C56] Rui Zou, Tianyi Xu, Fan Zhang, Yao Zhang, Zhe Zhao, Xiaolong Wang, **Maolin Wang**, Yingcheng Wu, and Ye Wei. (2026). From AI Scientists to AI Scientific Communities: A Survey of Collective AutoResearch. In *Findings of the Association for Computational Linguistics: EMNLP 2026*.
+
+[C55] Bingguang Hao, Zengzhuang Xu, Yuntao Wen, Xinyi Xu, Quanen Sun, Yang Liu, Zihao Huang, Tong Zhao, Long Chen, Dong Wang, Yicheng Chen, **Maolin Wang**, Cunyin Peng, Xiangyu Zhao, Chenyi Zhuang, and  Ji Zhang. (2026). HardGen: Generating Hard Samples for Tool-use Agents. In *Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)* (**CCF-B**).
+
 [C54] Yongkang Fu, Beining Bao, Yu Jiang, Xiangyu Zhao, Hongyang Wei, Guangxing Chen, Zuodong Yang, Shantao Li, Zonggang Wu, Yuqi Lu, Shouke Qin, Hanmeng Liu, and **Maolin Wang**†. (2026). MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling. In *Proceedings of the IEEE International Conference on Data Mining (ICDM)* (**CCF-B**). (†Corresponding Author) <span style="color: red">[Deployed in real-world scenarios at Baidu]</span>.
 
 [C53] Jian Liu, Pengzhi Zhong, Tianshuo Wei, Chenbin Zhang, and **Maolin Wang**†. (2026). Reference-Calibrated Residual Auditing for Backdoor Inspection in Time-Series Forecasting. In *Proceedings of the IEEE International Conference on Data Mining (ICDM)* (**CCF-B**). (†Corresponding Author)
