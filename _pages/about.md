@@ -272,6 +272,7 @@ I believe good research should end up in real-world production; some of my resea
 
 
 # 💬 Services
+
 * *2026.08*, **Session Chair**, KDD 2026 (CCF-A)
   
    Chair of *“Structured Data Synthesis & Generation”* session
