@@ -24,6 +24,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 # 🔥 News
 - *2026.11*:  🎉🎉 Our paper *TaCo: Auditable Task-Code Distributions for Few-Shot Graph Task Retrieval* has been accepted as a main conference paper by the 20th ACM International Conference on Web Search and Data Mining (WSDM 2027, acceptance rate: 277/1756 = 15.8%).
+- *2026.11*:  🎉🎉 I delivered a tutorial on *Reinforced Generative Information Retrieval* (focusing on generative document retrieval and recommendation) at NLPCC 2026.
 - *2026.10*:  🎉🎉 Our paper *Structure-Coupled Generative Graph Condensation* has been accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).
 - *2026.09*:  🎉🎉 Our paper *TRACE: State-Aware Query Processing over Temporal Evidence Graphs for Conversational Data* has been accepted by ICDE 2027. 
 - *2026.08*: 🎉🎉 Our two papers have been accepted by ICDM 2026. I'd especially like to mention my representative work among them: *MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling*. This paper addresses key challenges in scaling ultra-long behavior sequence modeling, multi-interest disentanglement, and multimodal semantic alignment that significantly improve retrieval quality and online user engagement at **Baidu**.
