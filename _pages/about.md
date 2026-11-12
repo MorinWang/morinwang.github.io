@@ -23,6 +23,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
 
 
 # 🔥 News
+- *2026.11*:  🎉🎉 Our paper *Tensor Networks Meet Neural Networks: A Survey and Future Perspectives* has been accepted by Proceedings of the IEEE. This paper means a lot to me: I began working on it the first time I ever took part in writing a paper. Seven years later, I still remember what it felt like to start doing research. My deepest gratitude to Prof. Zenglin Xu for guiding me into research!
 - *2026.11*:  🎉🎉 Our paper *TaCo: Auditable Task-Code Distributions for Few-Shot Graph Task Retrieval* has been accepted as a main conference paper by the 20th ACM International Conference on Web Search and Data Mining (WSDM 2027, acceptance rate: 277/1756 = 15.8%).
 - *2026.11*:  🎉🎉 I delivered a tutorial on *Reinforced Generative Information Retrieval* (focusing on generative document retrieval and recommendation) at NLPCC 2026.
 - *2026.10*:  🎉🎉 Our paper *Structure-Coupled Generative Graph Condensation* has been accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).
@@ -78,6 +79,8 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
  \* denotes equal contribution; † denotes corresponding authors.
  
 **Journal Papers**
+
+[J11] **Maolin Wang**, Yu Pan, Zenglin Xu, Guangxi Li, Xiangli Yang, Danilo Mandic, and Andrzej Cichocki. (2026). *Tensor Networks Meet Neural Networks: A Survey and Future Perspectives*. In *Proceedings of the IEEE (PIEEE) (**Impact Factor: 30.9**) (**JCR-Q1**)*.
 
 [J10] Huidong Wu, Dengsheng Wu, **Maolin Wang**, Haoran Yang, Xiangyu Zhao, and Jianping Li. (2026). *Structure-Coupled Generative Graph Condensation*. In *IEEE Transactions on Knowledge and Data Engineering (TKDE) (**Impact Factor: 10.4**) (**CCF-A**) (**JCR-Q1**)*.
 
