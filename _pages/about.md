@@ -80,7 +80,7 @@ Dr. Maolin Wang​ is a Research Assistant Professor at the Hong Kong Institute 
  
 **Journal Papers**
 
-[J11] **Maolin Wang**, Yu Pan, Zenglin Xu, Guangxi Li, Xiangli Yang, Danilo Mandic, and Andrzej Cichocki. (2026). *Tensor Networks Meet Neural Networks: A Survey and Future Perspectives*. In *Proceedings of the IEEE (PIEEE) (**Impact Factor: 30.9**) (**JCR-Q1**)*.
+[J11] **Maolin Wang**, Yu Pan, Zenglin Xu, Guangxi Li, Xiangli Yang, Danilo Mandic, and Andrzej Cichocki. (2026). *Tensor Networks Meet Neural Networks: A Survey and Future Perspectives*. In *Proceedings of the IEEE(**Impact Factor: 30.9**) (**CCF-A**) (**JCR-Q1**)*.
 
 [J10] Huidong Wu, Dengsheng Wu, **Maolin Wang**, Haoran Yang, Xiangyu Zhao, and Jianping Li. (2026). *Structure-Coupled Generative Graph Condensation*. In *IEEE Transactions on Knowledge and Data Engineering (TKDE) (**Impact Factor: 10.4**) (**CCF-A**) (**JCR-Q1**)*.
 
